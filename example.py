@@ -24,7 +24,8 @@ class BaseValue:
             if isinstance(_value, self.type):
                 self._value = _value
             else:
-                raise ValueError(f"Value of {self.__class__.__name__} must be instance of {self.type}")
+                raise ValueError(
+                    f"Value of {self.__class__.__name__} must be instance of {self.type}")
 
 
 class BaseString(BaseValue):
