@@ -1,0 +1,44 @@
+{
+  "HOUSE": {
+    "column_name": "real_estate_sub_type",
+    "new_column_name": "house_type",
+    "csv_file_path": "data/house_data.csv",
+    "new_alias_column_name": "house_alias",
+    "alias_list": "house_type"
+  },
+  "CITY": {
+    "column_name": "city",
+    "new_column_name": "city_name",
+    "csv_file_path": "data/city_data.csv",
+    "new_alias_column_name": "city_alias",
+    "alias_list": "city"
+  },
+  "DISTRICT": {
+    "column_name": "district",
+    "new_column_name": "district_name",
+    "csv_file_path": "data/district_data.csv",
+    "new_alias_column_name": "district_alias",
+    "alias_list": "district"
+  },
+  "WARD": {
+    "column_name": "ward",
+    "new_column_name": "ward_name",
+    "csv_file_path": "data/ward_data.csv",
+    "new_alias_column_name": "ward_alias",
+    "alias_list": "ward"
+  },
+  "STREET": {
+    "column_name": "street",
+    "new_column_name": "street_name",
+    "csv_file_path": "data/street_data.csv",
+    "new_alias_column_name": "street_alias",
+    "alias_list": "street"
+  },
+  "HOUSE_NUMBER": {
+    "column_name": "house_number",
+    "new_column_name": "house_number",
+    "csv_file_path": "data/house_number_data.csv",
+    "new_alias_column_name": "house_number_alias",
+    "alias_list": "house_number"
+  }
+}
