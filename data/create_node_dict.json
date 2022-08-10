@@ -1,0 +1,44 @@
+{
+  "HOUSE_NODE": {
+    "link": "https://www.dropbox.com/s/safuqktujru1ltg/house_data.csv?dl=1",
+    "label": "House",
+    "id": "house_id",
+    "name": "house_name",
+    "alias": "house_alias"
+  },
+  "CITY_NODE": {
+    "link": "https://www.dropbox.com/s/tesj1dnpmxodtxy/city_data.csv?dl=1",
+    "label": "City",
+    "id": "city_id",
+    "name": "city_name",
+    "alias": "city_alias"
+  },
+  "DISTRICT_NODE": {
+    "link": "https://www.dropbox.com/s/5u13y315i7tml6m/district_data.csv?dl=1",
+    "label": "District",
+    "id": "district_id",
+    "name": "district_name",
+    "alias": "district_alias"
+  },
+  "WARD_NODE": {
+    "link": "https://www.dropbox.com/s/cyzlllbs5x4lv13/ward_data.csv?dl=1",
+    "label": "Ward",
+    "id": "ward_id",
+    "name": "ward_name",
+    "alias": "ward_alias"
+  },
+  "STREET_NODE": {
+    "link": "https://www.dropbox.com/s/6kgamz4p0ot4ntf/street_data.csv?dl=1",
+    "label": "Street",
+    "id": "street_id",
+    "name": "street_name",
+    "alias": "street_alias"
+  },
+  "HOUSE_NUMBER_NODE": {
+    "link": "https://www.dropbox.com/s/rk9m14wi9kon91y/house_number_data.csv?dl=1",
+    "label": "House_number",
+    "id": "house_number_id",
+    "name": "house_number",
+    "alias": "house_number_alias"
+  }
+}
