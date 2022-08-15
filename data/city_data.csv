@@ -1,26 +1,26 @@
 Unnamed: 0,individual,alias
-0,bien hoa,tại thành phố nào
-3,hcm,tại tp nào
-8,vinh phuc,o thành phố nào
-14,binh duong,o tp nào
-15,hn,nằm ở thành phố nào
-20,da nang,nằm tại thành phố 
-24,bao loc,nằm tại thành phố nào
-34,binh thuan,thuộc thành phố nào
-35,tcb,thuộc thành phố ?
-36,long an,gần thành phố nào
-50,dong xoai,tai thanh pho nao
-56,lam dong,tai tp nao
-57,can tho,o thanh pho nao
-64,ben tre,o tp nao
-65,dong nai,nam o thanh pho nao
-67,dak lak,nam tai thanh pho 
-77,phu yen,nam tai thanh pho nao
-79,ba ria - vung tau,thuoc thanh pho nao
-90,dak nong,thuoc thanh pho ?
-94,tien giang,gan thanh pho nao
-121,hung yen,
-126,thu duc,
+0,bien hoa,thành phố
+3,hcm,thanh pho
+8,vinh phuc,tại thành phố nào
+14,binh duong,tại tp nào
+15,hn,o thành phố nào
+20,da nang,o tp nào
+24,bao loc,nằm ở thành phố nào
+34,binh thuan,nằm tại thành phố 
+35,tcb,nằm tại thành phố nào
+36,long an,thuộc thành phố nào
+50,dong xoai,thuộc thành phố ?
+56,lam dong,gần thành phố nào
+57,can tho,tai thanh pho nao
+64,ben tre,tai tp nao
+65,dong nai,o thanh pho nao
+67,dak lak,o tp nao
+77,phu yen,nam o thanh pho nao
+79,ba ria - vung tau,nam tai thanh pho 
+90,dak nong,nam tai thanh pho nao
+94,tien giang,thuoc thanh pho nao
+121,hung yen,thuoc thanh pho ?
+126,thu duc,gan thanh pho nao
 131,vung tau,
 142,hai duong,
 144,dong ha,

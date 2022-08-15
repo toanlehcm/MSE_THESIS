@@ -1,5 +1,5 @@
 {
-  "price": [
+  "Price": [
     "giá",
     "giá mấy tiền",
     "giá bao nhiêu",
@@ -214,7 +214,7 @@
     " khoang bao nhieu tien",
     " khoang bn tien"
   ],
-  "area": [
+  "Area": [
     "diện tích ra sao",
     "diện tích thế nào",
     "diện tích tn",
@@ -584,7 +584,7 @@
     "dien tich tb khoang bn ",
     "dien tich tb khoang bn ?"
   ],
-  "potential": [
+  "Potential": [
     "tiềm năng",
     "triển vọng",
     "mục đích",
@@ -721,7 +721,7 @@
     "cho muc dich ntn",
     "cho muc dich gi"
   ],
-  "location": [
+  "Location": [
     "tại khu vực nào",
     "tại khu vực ?",
     "tại vị trí nào",
@@ -787,7 +787,9 @@
     "gan vi tri nao",
     "gan dia diem nao"
   ],
-  "city": [
+  "City": [
+    "thành phố",
+    "thanh pho",
     "tại thành phố nào",
     "tại tp nào",
     "o thành phố nào",
@@ -809,7 +811,9 @@
     "thuoc thanh pho ?",
     "gan thanh pho nao"
   ],
-  "district": [
+  "District": [
+    "quận",
+    "quan",
     "tại quận nào",
     "tại q nào",
     "o quận nào",
@@ -831,7 +835,9 @@
     "thuoc quan ?",
     "gan quan nao"
   ],
-  "ward": [
+  "Ward": [
+    "phường",
+    "phuong",
     "tại phường nào",
     "tại p nào",
     "o phường nào",
@@ -853,7 +859,9 @@
     "thuoc phuong ?",
     "gan phuong nao"
   ],
-  "street": [
+  "Street": [
+    "đường",
+    "duong",
     "tại đường nào",
     "tại d nào",
     "o đường nào",
@@ -875,7 +883,9 @@
     "thuoc duong ?",
     "gan duong nao"
   ],
-  "house_number": [
+  "House_number": [
+    "số nhà",
+    "so nha",
     "tại số nhà nào",
     "tại sn nào",
     "o số nhà nào",
@@ -897,7 +907,8 @@
     "thuoc so nha ?",
     "gan so nha nao"
   ],
-  "house_type": [
+  "House": [
+    "nhà",
     "shophouse",
     "chung cu",
     "lien",
@@ -1058,7 +1069,7 @@
     "penhouse",
     "villas dt"
   ],
-  "dont_care": [
+  "Dont_care": [
     "không quan tâm",
     "không qtâm",
     "không qt",
@@ -1087,7 +1098,7 @@
     "sao cũng được",
     "tuỳ ý"
   ],
-  "yes": [
+  "Yes": [
     "đồng ý",
     "yes",
     "yes .",
@@ -1131,7 +1142,7 @@
     "uh",
     "uk"
   ],
-  "hello": [
+  "Hello": [
     "chào",
     "xin chào",
     "hello",
