@@ -40,5 +40,12 @@
     "csv_file_path": "data/house_number_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "House_number"
+  },
+  "PRICE": {
+    "column_name": "price",
+    "new_column_name": "individual",
+    "csv_file_path": "data/price_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Price"
   }
 }

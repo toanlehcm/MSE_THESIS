@@ -40,5 +40,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "PRICE": {
+    "link": "https://www.dropbox.com/s/jizo5p3m0x4nsux/price_data.csv?dl=1",
+    "label": "Price",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }
