@@ -809,7 +809,9 @@
     "nam tai thanh pho nao",
     "thuoc thanh pho nao",
     "thuoc thanh pho ?",
-    "gan thanh pho nao"
+    "gan thanh pho nao",
+    "tp",
+    "ở tp"
   ],
   "District": [
     "quận",
@@ -833,7 +835,9 @@
     "nam tai quan nao",
     "thuoc quan nao",
     "thuoc quan ?",
-    "gan quan nao"
+    "gan quan nao",
+    "q",
+    "ở q"
   ],
   "Ward": [
     "phường",
@@ -857,7 +861,9 @@
     "nam tai phuong nao",
     "thuoc phuong nao",
     "thuoc phuong ?",
-    "gan phuong nao"
+    "gan phuong nao",
+    "p",
+    "ở p"
   ],
   "Street": [
     "đường",
@@ -881,7 +887,9 @@
     "nam tai duong nao",
     "thuoc duong nao",
     "thuoc duong ?",
-    "gan duong nao"
+    "gan duong nao",
+    "d",
+    "ở d"
   ],
   "House_number": [
     "số nhà",
@@ -1097,66 +1105,5 @@
     "không có nhu cầu",
     "sao cũng được",
     "tuỳ ý"
-  ],
-  "Yes": [
-    "đồng ý",
-    "yes",
-    "yes .",
-    "ừ, đúng rồi",
-    "đúng đó",
-    "đúng rồi",
-    "có",
-    "có nha",
-    "có chứ",
-    "ừ",
-    "được",
-    "cũng được",
-    "được chứ",
-    "thêm",
-    "thêm đi",
-    "ok",
-    "chính xác",
-    "phải",
-    "vâng",
-    "okay",
-    "okie",
-    "đúng",
-    "ừa",
-    "uhm",
-    "uh",
-    "uk",
-    "đồng ý",
-    "yes",
-    "ừ, đúng rồi",
-    "đúng rồi",
-    "có",
-    "ừ",
-    "ok",
-    "chính xác",
-    "vâng",
-    "okay",
-    "okie",
-    "đúng",
-    "ừa",
-    "uhm",
-    "uh",
-    "uk"
-  ],
-  "Hello": [
-    "chào",
-    "xin chào",
-    "hello",
-    "hi",
-    "chào bạn",
-    "Chào",
-    "Xin chào",
-    "Hello",
-    "Hi",
-    "Chào bạn",
-    "chào",
-    "xin chào",
-    "hello",
-    "hi",
-    "chào bạn"
   ]
 }
