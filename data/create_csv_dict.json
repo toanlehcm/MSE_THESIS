@@ -61,5 +61,26 @@
     "csv_file_path": "data/potential_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Potential"
+  },
+  "BATH_ROOM": {
+    "column_name": "bath_room",
+    "new_column_name": "individual",
+    "csv_file_path": "data/bath_room_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Bath_room"
+  },
+  "BED_ROOM": {
+    "column_name": "bed_room",
+    "new_column_name": "individual",
+    "csv_file_path": "data/bed_room_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Bed_room"
+  },
+  "LIVING_ROOM": {
+    "column_name": "living_room",
+    "new_column_name": "individual",
+    "csv_file_path": "data/living_room_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Living_room"
   }
 }

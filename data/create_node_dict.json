@@ -61,5 +61,26 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "BATH_ROOM": {
+    "link": "https://www.dropbox.com/s/n4eislvt94js2if/bath_room_data.csv?dl=1",
+    "label": "Bath_room",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
+  "BED_ROOM": {
+    "link": "https://www.dropbox.com/s/j6yw93ku4ck4pjv/bed_room_data.csv?dl=1",
+    "label": "Bed_room",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
+  "LIVING_ROOM": {
+    "link": "https://www.dropbox.com/s/nkoac8w0xuxw1b4/living_room_data.csv?dl=1",
+    "label": "Living_room",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }
