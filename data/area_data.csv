@@ -1,0 +1,951 @@
+Unnamed: 0,individual,alias
+0,100.0,diện tích ra sao
+1,162.0,diện tích thế nào
+2,52.0,diện tích tn
+3,25.0,diện tích ntn
+4,295.0,diện tích như thế nào
+5,352.0,diện tích mấy
+6,1000.0,diện tích bao nhiêu
+7,85.0,diện tích bn
+8,68.0,diện tích khoảng bao nhiêu
+9,54.0,diện tích khoảng bn
+10,120.0,dt ra sao
+11,66.0,dt thế nào
+12,80.0,dt như thế nào
+13,62.0,dt bao nhiêu
+14,107.0,dt khoảng bao nhiêu
+15,500.0,dt khoảng bn
+16,523.0,rộng ra sao
+17,74.0,rộng thế nào
+18,50.0,rộng như thế nào
+19,2500.0,rộng bao nhiêu
+20,77.0,rộng khoảng bao nhiêu
+22,660.0,rộng khoảng bn
+23,53.0,diện tích trung bình ra sao
+25,32.0,diện tích trung bình thế nào
+26,160.0,diện tích trung bình tn
+27,200.0,diện tích trung bình ntn
+29,1004.0,diện tích trung bình như thế nào
+31,130.0,diện tích trung bình mấy
+32,60.0,diện tích trung bình bao nhiêu
+33,97.0,diện tích trung bình bn
+34,40000.0,diện tích trung bình khoảng bao nhiêu
+35,84.0,diện tích trung bình khoảng bn
+39,300.0,diện tích trung bình ?
+40,187.0,diện tích tb ra sao
+42,102.0,diện tích tb thế nào
+43,70.0,diện tích tb tn
+45,69.0,diện tích tb ntn
+46,1300.0,diện tích tb như thế nào
+47,117.0,diện tích tb mấy
+49,150.0,diện tích tb bao nhiêu
+52,20.0,diện tích tb bn
+54,125.0,diện tích tb khoảng bao nhiêu
+55,10000.0,diện tích tb khoảng bn
+57,566.0,diện tích tb ?
+59,48.0,diện tích mấy mét vuông
+63,38.0,diện tích mấy mét 2
+64,205.0,diện tích mấy m2
+65,75.0,diện tích mấy m 2
+66,35.0,diện tích mấy 
+67,1280.0,diện tích mấy ?
+69,468.0,diện tích bao nhiêu mét vuông
+71,58.0,diện tích bao nhiêu mét 2
+72,95.0,diện tích bao nhiêu m2
+74,157.0,diện tích bao nhiêu m 2
+76,88.0,diện tích bao nhiêu 
+77,735.0,diện tích bao nhiêu ?
+78,64.0,diện tích bn mét vuông
+81,246.0,diện tích bn mét 2
+82,236.0,diện tích bn m2
+88,89.0,diện tích bn m 2
+89,110.0,diện tích bn 
+91,250.0,diện tích bn ?
+94,190.0,diện tích khoảng bao nhiêu mét vuông
+95,270.0,diện tích khoảng bao nhiêu mét 2
+97,2900.0,diện tích khoảng bao nhiêu m2
+98,90.0,diện tích khoảng bao nhiêu m 2
+99,184.0,diện tích khoảng bao nhiêu 
+100,138.0,diện tích khoảng bao nhiêu ?
+102,356.0,diện tích khoảng bn mét vuông
+104,140.0,diện tích khoảng bn mét 2
+105,2000.0,diện tích khoảng bn m2
+111,56.0,diện tích khoảng bn m 2
+113,1100.0,diện tích khoảng bn 
+114,422.0,diện tích khoảng bn ?
+115,360.0,dt mấy mét vuông
+118,111.0,dt mấy mét 2
+119,170.0,dt mấy m2
+120,272.0,dt mấy m 2
+129,73.0,dt bao nhiêu mét vuông
+134,128.0,dt bao nhiêu mét 2
+135,579.0,dt bao nhiêu m2
+136,255.0,dt bao nhiêu m 2
+137,91.0,dt bao nhiêu 
+138,400.0,dt bao nhiêu ?
+139,86.0,dt bn mét vuông
+140,78.0,dt bn mét 2
+142,139.0,dt khoảng bao nhiêu mét vuông
+144,221.0,dt khoảng bao nhiêu mét 2
+145,393.0,dt khoảng bao nhiêu m2
+147,126.0,dt khoảng bao nhiêu m 2
+149,63.0,dt khoảng bao nhiêu 
+150,567.0,dt khoảng bao nhiêu ?
+152,260.0,dt khoảng bn mét vuông
+153,31.0,dt khoảng bn mét 2
+155,72.0,dt khoảng bn m2
+156,148.0,dt khoảng bn m 2
+158,5000.0,dt khoảng bn 
+159,142.0,dt khoảng bn ?
+161,42.0,rộng mấy mét vuông
+163,271.0,rộng mấy mét 2
+169,104.0,rộng mấy m2
+174,76.0,rộng mấy m 2
+175,131.0,rộng bao nhiêu mét vuông
+178,145.0,rộng bao nhiêu mét 2
+179,83.0,rộng bao nhiêu m2
+180,7440.0,rộng bao nhiêu m 2
+181,59.0,rộng bao nhiêu 
+184,600.0,rộng bao nhiêu ?
+185,82.0,rộng bn mét vuông
+186,94.0,rộng bn mét 2
+188,57.0,rộng bn m2
+190,234.0,rộng bn m 2
+193,167.0,rộng khoảng bao nhiêu mét vuông
+194,81.0,rộng khoảng bao nhiêu mét 2
+195,113.0,rộng khoảng bao nhiêu m2
+199,33.0,rộng khoảng bao nhiêu m 2
+203,45.0,rộng khoảng bao nhiêu 
+204,55.0,rộng khoảng bao nhiêu ?
+209,105.0,rộng khoảng bn mét vuông
+212,122.0,rộng khoảng bn mét 2
+215,146.0,rộng khoảng bn m2
+218,456.0,rộng khoảng bn m 2
+219,71.0,rộng khoảng bn 
+225,220.0,rộng khoảng bn ?
+227,215.0,diện tích trung bình mấy mét vuông
+229,46.0,diện tích trung bình mấy mét 2
+234,65.0,diện tích trung bình mấy m2
+238,239.0,diện tích trung bình mấy m 2
+240,237.0,diện tích trung bình mấy 
+250,203.0,diện tích trung bình mấy ?
+252,1660.0,diện tích trung bình bao nhiêu mét vuông
+253,1833.0,diện tích trung bình bao nhiêu mét 2
+257,41.0,diện tích trung bình bao nhiêu m2
+260,732.0,diện tích trung bình bao nhiêu m 2
+261,226.0,diện tích trung bình bao nhiêu 
+262,369.0,diện tích trung bình bao nhiêu ?
+265,119.0,diện tích trung bình bn mét vuông
+266,112.0,diện tích trung bình bn mét 2
+267,285.0,diện tích trung bình bn m2
+271,96.0,diện tích trung bình bn m 2
+273,116.0,diện tích trung bình bn 
+274,36.0,diện tích trung bình bn ?
+277,211.0,diện tích trung bình khoảng bao nhiêu mét vuông
+281,252.0,diện tích trung bình khoảng bao nhiêu mét 2
+288,168.0,diện tích trung bình khoảng bao nhiêu m2
+296,182.0,diện tích trung bình khoảng bao nhiêu m 2
+298,562.0,diện tích trung bình khoảng bao nhiêu 
+302,93.0,diện tích trung bình khoảng bao nhiêu ?
+308,550.0,diện tích trung bình khoảng bn mét vuông
+310,3829.0,diện tích trung bình khoảng bn mét 2
+312,115.0,diện tích trung bình khoảng bn m2
+313,61.0,diện tích trung bình khoảng bn m 2
+314,358.0,diện tích trung bình khoảng bn 
+319,180.0,diện tích trung bình khoảng bn ?
+327,230.0,diện tích tb mấy mét vuông
+329,67.0,diện tích tb mấy mét 2
+331,4000.0,diện tích tb mấy m2
+332,123.0,diện tích tb mấy m 2
+337,188.0,diện tích tb mấy 
+339,192.0,diện tích tb mấy ?
+341,4700.0,diện tích tb bao nhiêu mét vuông
+342,164.0,diện tích tb bao nhiêu mét 2
+343,129.0,diện tích tb bao nhiêu m2
+346,611.0,diện tích tb bao nhiêu m 2
+347,700.0,diện tích tb bao nhiêu 
+349,7000.0,diện tích tb bao nhiêu ?
+350,22.0,diện tích tb bn mét vuông
+356,9945.0,diện tích tb bn mét 2
+357,420.0,diện tích tb bn m2
+360,30000.0,diện tích tb bn m 2
+369,51.0,diện tích tb bn 
+371,320.0,diện tích tb bn ?
+372,202.0,diện tích tb khoảng bao nhiêu mét vuông
+384,224.0,diện tích tb khoảng bao nhiêu mét 2
+386,144.0,diện tích tb khoảng bao nhiêu m2
+391,2605.0,diện tích tb khoảng bao nhiêu m 2
+393,34.0,diện tích tb khoảng bao nhiêu 
+396,79.0,diện tích tb khoảng bao nhiêu ?
+397,18925.0,diện tích tb khoảng bn mét vuông
+402,357.0,diện tích tb khoảng bn mét 2
+406,328.0,diện tích tb khoảng bn m2
+410,37.0,diện tích tb khoảng bn m 2
+413,40.0,diện tích tb khoảng bn 
+414,323.0,diện tích tb khoảng bn ?
+415,2134.0,dien tich ra sao
+419,330.0,dien tich the nao
+422,201.0,dien tich tn
+424,800.0,dien tich ntn
+425,240.0,dien tich nhu the nao
+426,680.0,dien tich may
+427,133.0,dien tich bao nhieu
+429,21248.0,dien tich bn
+433,1068.0,dien tich khoang bao nhieu
+439,1200.0,dien tich khoang bn
+440,6300.0,dt ra sao
+441,161.0,dt the nao
+444,9000.0,dt nhu the nao
+445,43.0,dt bao nhieu
+449,154.0,dt khoang bao nhieu
+452,3002.0,dt khoang bn
+464,39.0,rong ra sao
+472,127.0,rong the nao
+473,280.0,rong nhu the nao
+480,325.0,rong bao nhieu
+481,103.0,rong khoang bao nhieu
+483,92.0,rong khoang bn
+486,484.0,dien tich trung binh ra sao
+487,1373.0,dien tich trung binh the nao
+490,175.0,dien tich trung binh tn
+491,158.0,dien tich trung binh ntn
+496,297.0,dien tich trung binh nhu the nao
+498,98.0,dien tich trung binh may
+506,307.0,dien tich trung binh bao nhieu
+511,922.0,dien tich trung binh bn
+515,528.0,dien tich trung binh khoang bao nhieu
+518,155.0,dien tich trung binh khoang bn
+522,439.0,dien tich trung binh ?
+528,1390.0,dien tich tb ra sao
+531,4.0,dien tich tb the nao
+538,2.0,dien tich tb tn
+544,219.0,dien tich tb ntn
+551,335.0,dien tich tb nhu the nao
+566,1018.0,dien tich tb may
+567,30.0,dien tich tb bao nhieu
+571,810.0,dien tich tb bn
+572,206.0,dien tich tb khoang bao nhieu
+576,5500.0,dien tich tb khoang bn
+581,5013.0,dien tich tb ?
+591,487.0,dien tich may met vuong
+592,7500.0,dien tich may met 2
+596,670.0,dien tich may m2
+610,87.0,dien tich may m 2
+617,425.0,dien tich may 
+621,23.0,dien tich may ?
+638,106.0,dien tich bao nhieu met vuong
+645,588.0,dien tich bao nhieu met 2
+650,1250.0,dien tich bao nhieu m2
+656,20000.0,dien tich bao nhieu m 2
+658,390.0,dien tich bao nhieu 
+665,177.0,dien tich bao nhieu ?
+668,99.0,dien tich bn met vuong
+675,193.0,dien tich bn met 2
+679,1500.0,dien tich bn m2
+682,1753.0,dien tich bn m 2
+683,470.0,dien tich bn 
+693,147.0,dien tich bn ?
+694,3162.0,dien tich khoang bao nhieu met vuong
+695,25000.0,dien tich khoang bao nhieu met 2
+700,198.0,dien tich khoang bao nhieu m2
+704,371.0,dien tich khoang bao nhieu m 2
+705,70000.0,dien tich khoang bao nhieu 
+709,109.0,dien tich khoang bao nhieu ?
+723,28.0,dien tich khoang bn met vuong
+725,1560.0,dien tich khoang bn met 2
+735,1003.0,dien tich khoang bn m2
+736,132.0,dien tich khoang bn m 2
+737,231.0,dien tich khoang bn 
+743,474.0,dien tich khoang bn ?
+749,1420.0,dt may met vuong
+751,836.0,dt may met 2
+768,6500.0,dt may m2
+773,4800.0,dt may m 2
+779,242.0,dt bao nhieu met vuong
+782,17182.0,dt bao nhieu met 2
+795,796.0,dt bao nhieu m2
+801,3600.0,dt bao nhieu m 2
+804,124.0,dt bao nhieu 
+812,1095.0,dt bao nhieu ?
+816,29.0,dt bn met vuong
+826,616.0,dt bn met 2
+827,153.0,dt khoang bao nhieu met vuong
+834,118.0,dt khoang bao nhieu met 2
+846,44.0,dt khoang bao nhieu m2
+851,1019.0,dt khoang bao nhieu m 2
+864,540.0,dt khoang bao nhieu 
+866,264.0,dt khoang bao nhieu ?
+869,1120.0,dt khoang bn met vuong
+871,165.0,dt khoang bn met 2
+872,310.0,dt khoang bn m2
+880,47999.0,dt khoang bn m 2
+887,1108.0,dt khoang bn 
+889,1121.0,dt khoang bn ?
+892,311.0,rong may met vuong
+894,450.0,rong may met 2
+895,714.0,rong may m2
+898,108.0,rong may m 2
+900,5346.0,rong bao nhieu met vuong
+907,1391.0,rong bao nhieu met 2
+908,6400.0,rong bao nhieu m2
+909,47.0,rong bao nhieu m 2
+915,1096.0,rong bao nhieu 
+917,5436.0,rong bao nhieu ?
+931,939.0,rong bn met vuong
+933,156.0,rong bn met 2
+944,197.0,rong bn m2
+962,655.0,rong bn m 2
+963,3741.0,rong khoang bao nhieu met vuong
+964,605.0,rong khoang bao nhieu met 2
+1001,2080.0,rong khoang bao nhieu m2
+1002,350.0,rong khoang bao nhieu m 2
+1014,121.0,rong khoang bao nhieu 
+1018,9.0,rong khoang bao nhieu ?
+1029,213.0,rong khoang bn met vuong
+1031,5435.0,rong khoang bn met 2
+1032,1262.0,rong khoang bn m2
+1033,326.0,rong khoang bn m 2
+1035,340.0,rong khoang bn 
+1038,194.0,rong khoang bn ?
+1048,27.0,dien tich trung binh may met vuong
+1056,1600.0,dien tich trung binh may met 2
+1058,7700.0,dien tich trung binh may m2
+1061,1308.0,dien tich trung binh may m 2
+1083,225.0,dien tich trung binh may 
+1084,1596.0,dien tich trung binh may ?
+1085,1282.0,dien tich trung binh bao nhieu met vuong
+1088,191.0,dien tich trung binh bao nhieu met 2
+1091,212.0,dien tich trung binh bao nhieu m2
+1093,185.0,dien tich trung binh bao nhieu m 2
+1103,195.0,dien tich trung binh bao nhieu 
+1123,216.0,dien tich trung binh bao nhieu ?
+1130,403.0,dien tich trung binh bn met vuong
+1142,467.0,dien tich trung binh bn met 2
+1154,114.0,dien tich trung binh bn m2
+1161,3532.0,dien tich trung binh bn m 2
+1164,1756.0,dien tich trung binh bn 
+1183,152.0,dien tich trung binh bn ?
+1209,17187.0,dien tich trung binh khoang bao nhieu met vuong
+1213,368.0,dien tich trung binh khoang bao nhieu met 2
+1221,1240.0,dien tich trung binh khoang bao nhieu m2
+1226,50000.0,dien tich trung binh khoang bao nhieu m 2
+1242,430.0,dien tich trung binh khoang bao nhieu 
+1250,24.0,dien tich trung binh khoang bao nhieu ?
+1264,137.0,dien tich trung binh khoang bn met vuong
+1283,868.0,dien tich trung binh khoang bn met 2
+1296,1050.0,dien tich trung binh khoang bn m2
+1301,135.0,dien tich trung binh khoang bn m 2
+1306,895.0,dien tich trung binh khoang bn 
+1309,716.0,dien tich trung binh khoang bn ?
+1316,3000.0,dien tich tb may met vuong
+1327,927.0,dien tich tb may met 2
+1329,480.0,dien tich tb may m2
+1340,833.0,dien tich tb may m 2
+1362,273.0,dien tich tb may 
+1391,288.0,dien tich tb may ?
+1395,275.0,dien tich tb bao nhieu met vuong
+1400,4600.0,dien tich tb bao nhieu met 2
+1422,176.0,dien tich tb bao nhieu m2
+1431,1213.0,dien tich tb bao nhieu m 2
+1434,169.0,dien tich tb bao nhieu 
+1453,3957.0,dien tich tb bao nhieu ?
+1457,448.0,dien tich tb bn met vuong
+1462,1770.0,dien tich tb bn met 2
+1469,2256.0,dien tich tb bn m2
+1470,710.0,dien tich tb bn m 2
+1489,1229.0,dien tich tb bn 
+1495,29000.0,dien tich tb bn ?
+1496,520.0,dien tich tb khoang bao nhieu met vuong
+1504,3767.0,dien tich tb khoang bao nhieu met 2
+1520,1082.0,dien tich tb khoang bao nhieu m2
+1531,485.0,dien tich tb khoang bao nhieu m 2
+1534,6851.0,dien tich tb khoang bao nhieu 
+1559,1941.0,dien tich tb khoang bao nhieu ?
+1564,143.0,dien tich tb khoang bn met vuong
+1571,650.0,dien tich tb khoang bn met 2
+1576,13237.0,dien tich tb khoang bn m2
+1596,2966.0,dien tich tb khoang bn m 2
+1597,380.0,dien tich tb khoang bn 
+1602,2400.0,dien tich tb khoang bn ?
+1618,173.0,
+1622,134.0,
+1623,457.0,
+1631,171.0,
+1644,299.0,
+1645,247.0,
+1658,2674.0,
+1660,11000.0,
+1665,624.0,
+1675,1950.0,
+1695,514.0,
+1700,375.0,
+1706,10981.0,
+1722,2590.0,
+1731,7133.0,
+1742,291.0,
+1747,384.0,
+1748,189.0,
+1749,262.0,
+1753,278.0,
+1762,3090.0,
+1764,986.0,
+1776,515.0,
+1783,199.0,
+1796,4750.0,
+1803,1038.0,
+1805,396.0,
+1835,6000.0,
+1837,737.0,
+1848,2750.0,
+1850,408.0,
+1857,1260.0,
+1863,3.0,
+1879,1020.0,
+1892,5412.0,
+1904,2225.0,
+1916,1358.0,
+1918,101.0,
+1921,406.0,
+1924,492.0,
+1925,852.0,
+1940,2563.0,
+1947,946.0,
+1953,14564.0,
+1956,305.0,
+1966,4648.0,
+1968,366.0,
+1973,640.0,
+1979,3900.0,
+1981,6496.0,
+1982,1412.0,
+1985,5944.0,
+1996,1053.0,
+2001,370000.0,
+2004,281.0,
+2021,136.0,
+2023,186.0,
+2028,1286.0,
+2030,100000.0,
+2033,1029.0,
+2034,17495.0,
+2042,290.0,
+2044,6068.0,
+2047,11564.0,
+2055,1033.0,
+2056,1857.0,
+2057,140000.0,
+2058,945.0,
+2074,543.0,
+2087,207.0,
+2105,1937.0,
+2130,4489.0,
+2131,744.0,
+2134,819.0,
+2137,183.0,
+2140,166.0,
+2143,6.0,
+2145,4139.0,
+2155,10062.0,
+2162,172.0,
+2193,1380.0,
+2209,370.0,
+2212,381.0,
+2231,2650.0,
+2232,22641.0,
+2233,4550.0,
+2242,151.0,
+2247,49.0,
+2257,7100.0,
+2263,8000.0,
+2266,1233.0,
+2272,1025.0,
+2281,2700.0,
+2286,459.0,
+2298,248.0,
+2301,677.0,
+2314,3200.0,
+2322,1979.0,
+2324,7392.0,
+2328,294.0,
+2336,410.0,
+2352,331.0,
+2372,746.0,
+2379,6800.0,
+2380,1717.0,
+2386,2800.0,
+2393,227.0,
+2397,594.0,
+2410,5375.0,
+2413,2196.0,
+2418,228.0,
+2424,259.0,
+2427,1224.0,
+2437,17000.0,
+2447,2126.0,
+2474,418.0,
+2479,149.0,
+2575,405.0,
+2585,849.0,
+2601,179.0,
+2603,960.0,
+2604,2004.0,
+2607,1154.0,
+2612,204.0,
+2613,319.0,
+2616,560000.0,
+2620,22323.0,
+2622,1347.0,
+2644,435.0,
+2658,535.0,
+2663,699.0,
+2676,1658.0,
+2682,22875.0,
+2705,12000.0,
+2720,3577.0,
+2734,779.0,
+2752,217.0,
+2754,453.0,
+2761,243.0,
+2766,349.0,
+2782,210.0,
+2795,5.0,
+2803,620.0,
+2812,505.0,
+2827,3700.0,
+2832,512.0,
+2833,950.0,
+2834,679.0,
+2848,948.0,
+2871,26.0,
+2885,269.0,
+2915,473.0,
+2938,28000.0,
+2950,608.0,
+2952,548.0,
+2974,293.0,
+2988,1155.0,
+3007,6255.0,
+3031,60000.0,
+3033,9500.0,
+3052,464.0,
+3055,10.0,
+3061,918.0,
+3085,3064.0,
+3088,16841.0,
+3089,181.0,
+3108,1168.0,
+3126,1801.0,
+3138,1005.0,
+3149,903.0,
+3154,720.0,
+3173,2213.0,
+3204,762.0,
+3235,2852.0,
+3245,141.0,
+3256,261.0,
+3257,336.0,
+3263,432.0,
+3264,249.0,
+3278,667.0,
+3285,2040.0,
+3298,445.0,
+3338,4500.0,
+3342,16000.0,
+3348,518.0,
+3353,232.0,
+3360,265.0,
+3362,14000.0,
+3381,4258.0,
+3389,399.0,
+3391,338.0,
+3401,545.0,
+3402,208.0,
+3412,282.0,
+3422,1052.0,
+3434,334.0,
+3443,348.0,
+3466,238.0,
+3478,1146.0,
+3509,354.0,
+3523,1022.0,
+3529,1450.0,
+3534,345.0,
+3557,730.0,
+3588,342.0,
+3590,241.0,
+3612,257.0,
+3617,477.0,
+3618,47000.0,
+3624,174.0,
+3625,218.0,
+3634,196.0,
+3638,816.0,
+3669,1774.0,
+3702,3121.0,
+3717,5700.0,
+3727,551.0,
+3734,303.0,
+3751,21.0,
+3772,1.0,
+3777,7762.0,
+3779,355.0,
+3783,386.0,
+3789,571.0,
+3792,930.0,
+3805,258.0,
+3808,533.0,
+3824,276.0,
+3842,378.0,
+3854,2350.0,
+3858,820.0,
+3859,1496.0,
+3871,440.0,
+3874,256.0,
+3876,395.0,
+3877,3500.0,
+3901,2160.0,
+3920,850.0,
+3934,521.0,
+3937,6150.0,
+3950,901.0,
+3964,1597.0,
+3968,526.0,
+3989,1157.0,
+3991,1055.0,
+4037,308.0,
+4042,150000.0,
+4044,163.0,
+4101,2025.0,
+4102,767.0,
+4108,2300.0,
+4116,18.0,
+4119,5539.0,
+4124,1860.0,
+4148,10002.0,
+4166,18000.0,
+4174,316.0,
+4251,313.0,
+4256,2270.0,
+4271,365.0,
+4308,726.0,
+4325,3536.0,
+4341,5157.0,
+4343,648.0,
+4345,14335.0,
+4346,1632.0,
+4364,565.0,
+4388,222.0,
+4391,452.0,
+4405,4100.0,
+4419,398.0,
+4429,301.0,
+4432,200000.0,
+4435,420000.0,
+4448,304.0,
+4449,1185.0,
+4465,1061.0,
+4473,296.0,
+4476,286.0,
+4491,586.0,
+4535,5254.0,
+4545,21000.0,
+4549,22000.0,
+4551,827.0,
+4573,822.0,
+4584,1551.0,
+4595,23000.0,
+4614,7.0,
+4627,1132.0,
+4634,987.0,
+4636,812.0,
+4650,402.0,
+4660,1363.0,
+4675,1668.0,
+4683,19384.0,
+4685,3233.0,
+4686,876.0,
+4700,777.0,
+4723,1160.0,
+4743,5200.0,
+4744,14.0,
+4764,9130.0,
+4766,1430.0,
+4771,5855.0,
+4776,254.0,
+4787,20178.0,
+4827,7745.0,
+4846,718.0,
+4853,1657.0,
+4856,1093.0,
+4882,424.0,
+4896,1800.0,
+4899,9800.0,
+4913,2200.0,
+4921,341.0,
+4923,13290.0,
+4936,11610.0,
+4940,27000.0,
+4962,315.0,
+4973,4017.0,
+4976,1332.0,
+4981,1110.0,
+4997,364.0,
+5009,1522.0,
+5012,3589.0,
+5063,385.0,
+5071,24000.0,
+5094,2033.0,
+5116,16.0,
+5119,2450.0,
+5128,525.0,
+5145,10300.0,
+5148,479.0,
+5153,2686.0,
+5154,1225.0,
+5161,415.0,
+5176,1062.0,
+5177,1216.0,
+5178,560.0,
+5180,672.0,
+5204,1212.0,
+5227,8755.0,
+5229,607.0,
+5239,1666.0,
+5241,750.0,
+5268,17.0,
+5281,539.0,
+5285,940.0,
+5286,235.0,
+5292,1130.0,
+5311,8600.0,
+5328,661.0,
+5362,772.0,
+5367,244.0,
+5373,784.0,
+5392,2903.0,
+5463,11500.0,
+5507,251.0,
+5526,9847.0,
+5531,292.0,
+5579,3265.0,
+5588,463.0,
+5589,1009.0,
+5594,444.0,
+5623,971.0,
+5632,4120.0,
+5636,1440.0,
+5647,283.0,
+5651,2020.0,
+5653,1010.0,
+5676,3035.0,
+5699,8978.0,
+5730,1271.0,
+5791,2713.0,
+5796,411.0,
+5809,510.0,
+5866,503.0,
+5872,13587.0,
+5877,3370.0,
+5895,1392.0,
+5901,570.0,
+5950,1023.0,
+5957,1024.0,
+5972,13818.0,
+5979,1650.0,
+5985,407.0,
+6001,279.0,
+6011,524.0,
+6042,4706.0,
+6043,10900.0,
+6048,274.0,
+6123,2975.0,
+6171,298.0,
+6174,455.0,
+6225,289.0,
+6255,306.0,
+6267,695.0,
+6268,7400.0,
+6301,15000.0,
+6302,1935.0,
+6303,8356.0,
+6309,592.0,
+6331,766.0,
+6333,414.0,
+6357,287.0,
+6360,17648.0,
+6375,18854.0,
+6403,630000.0,
+6407,706.0,
+6420,974.0,
+6454,2945.0,
+6465,2495.0,
+6483,302.0,
+6493,2228.0,
+6500,1230.0,
+6527,634.0,
+6532,245.0,
+6545,427.0,
+6565,590.0,
+6585,1776.0,
+6587,392.0,
+6608,14720.0,
+6623,1625.0,
+6634,383.0,
+6648,1550.0,
+6668,3389.0,
+6700,818.0,
+6745,734.0,
+6769,1128.0,
+6771,1234.0,
+6832,214.0,
+6873,1626.0,
+6893,4964.0,
+6940,601.0,
+6955,900.0,
+6973,575.0,
+6979,4351.0,
+7039,9776.0,
+7040,1647.0,
+7045,3456.0,
+7052,3483.0,
+7055,2736.0,
+7082,2600.0,
+7087,3770.0,
+7088,1683.0,
+7188,1219.0,
+7190,641.0,
+7200,12345.0,
+7247,460.0,
+7249,547.0,
+7251,4350.0,
+7252,469.0,
+7270,178.0,
+7300,788.0,
+7340,2237.0,
+7389,90000.0,
+7437,625.0,
+7446,3448.0,
+7484,763.0,
+7508,5112.0,
+7523,1028.0,
+7547,447.0,
+7605,1365.0,
+7647,3310.0,
+7683,707.0,
+7687,437.0,
+7701,1360.0,
+7720,556.0,
+7750,5300.0,
+7761,159.0,
+7763,4860.0,
+7769,2100.0,
+7770,1603.0,
+7878,1700.0,
+7897,7990.0,
+7902,508.0,
+7958,2419.0,
+7969,339.0,
+7978,3912.0,
+7992,553.0,
+7998,1850.0,
+8022,532.0,
+8051,346.0,
+8097,517.0,
+8102,669.0,
+8154,1124.0,
+8185,362.0,
+8194,1320000.0,
+8222,2987.0,
+8271,35000.0,
+8347,277.0,
+8360,795.0,
+8398,1099.0,
+8423,1637.0,
+8428,361.0,
+8440,209.0,
+8456,233.0,
+8496,10855.0,
+8501,434.0,
+8632,690.0,
+8637,544.0,
+8652,1060.0,
+8663,896.0,
+8664,652.0,
+8677,580.0,
+8729,1049.0,
+8736,595.0,
+8740,1150.0,
+8742,645.0,
+8755,1244.0,
+8782,10098.0,
+8791,266.0,
+8806,229.0,
+8808,1288.0,
+8818,6190.0,
+8885,1070.0,
+8894,1413.0,
+8910,1134.0,
+8911,3800.0,
+8913,754.0,
+8914,1119.0,
+8916,3428.0,
+8919,3059.0,
+8921,4138.0,
+8939,642.0,
+8956,2029.0,
+8968,382.0,
+9018,1395.0,
+9022,498.0,
+9024,46000.0,
+9043,1014.0,
+9065,5111.0,
+9071,7761.0,
+9089,1711.0,
+9108,1750.0,
+9109,268.0,
+9119,3367.0,
+9185,96000.0,
+9194,915.0,
+9205,920.0,
+9225,267.0,
+9226,1634.0,
+9234,1017.0,
+9247,19.0,
+9255,170000.0,
+9265,1734.0,
+9288,1006.0,
+9336,495.0,
+9341,1295.0,
+9348,722.0,
+9381,387.0,
+9414,693.0,
+9435,4850.0,
+9436,25880.0,
+9479,883.0,
+9480,367.0,
+9496,1084.0,
+9525,1662.0,
+9543,3433.0,
+9560,1880.0,
+9631,5002.0,
+9640,7450.0,
+9644,9300.0,
+9666,9220.0,
+9675,499.0,
+9681,223.0,
+9689,610.0,
+9726,1129.0,
+9732,536.0,
+9744,1635.0,
+9771,1524.0,
+9800,1256.0,
+9865,1247.0,
+9877,781.0,
+9889,2889.0,
+9918,9884.0,
+9920,761.0,
+9927,1881.0,
+9948,3904.0,
+9978,42000.0,
+9986,541.0,
+9999,1220.0,

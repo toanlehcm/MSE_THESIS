@@ -47,5 +47,19 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "AREA": {
+    "link": "https://www.dropbox.com/s/1x3rvj3szza8vv5/area_data.csv?dl=1",
+    "label": "Area",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
+  "POTENTIAL": {
+    "link": "https://www.dropbox.com/s/tj9dahm2lsr26j3/potential_data.csv?dl=1",
+    "label": "Potential",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

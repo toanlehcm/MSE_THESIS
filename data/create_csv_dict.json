@@ -47,5 +47,19 @@
     "csv_file_path": "data/price_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Price"
+  },
+  "AREA": {
+    "column_name": "area",
+    "new_column_name": "individual",
+    "csv_file_path": "data/area_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Area"
+  },
+  "POTENTIAL": {
+    "column_name": "usage",
+    "new_column_name": "individual",
+    "csv_file_path": "data/potential_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Potential"
   }
 }
