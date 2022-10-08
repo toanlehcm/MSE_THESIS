@@ -82,5 +82,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "DIRECTION": {
+    "link": "https://www.dropbox.com/s/t7qzp8az3gd2dc1/direction_data.csv?dl=1",
+    "label": "Direction",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

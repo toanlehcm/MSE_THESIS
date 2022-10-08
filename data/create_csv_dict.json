@@ -82,5 +82,12 @@
     "csv_file_path": "data/living_room_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Living_room"
+  },
+  "DIRECTION": {
+    "column_name": "direction",
+    "new_column_name": "individual",
+    "csv_file_path": "data/direction_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Direction"
   }
 }
