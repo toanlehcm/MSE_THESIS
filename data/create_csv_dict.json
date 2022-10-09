@@ -103,5 +103,12 @@
     "csv_file_path": "data/floor_gac_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Floor_gac"
+  },
+  "FLOOR_TRET": {
+    "column_name": "floor_tret",
+    "new_column_name": "individual",
+    "csv_file_path": "data/floor_tret_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Floor_tret"
   }
 }

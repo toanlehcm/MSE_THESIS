@@ -103,5 +103,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FLOOR_TRET": {
+    "link": "https://www.dropbox.com/s/w8qp7iih2wv6ktp/floor_tret_data.csv?dl=1",
+    "label": "Floor_tret",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }
