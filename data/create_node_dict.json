@@ -89,5 +89,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FLOOR": {
+    "link": "https://www.dropbox.com/s/3956gio7xc2x41l/floor_data.csv?dl=1",
+    "label": "Floor",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

@@ -1142,6 +1142,8 @@
     "hướng tây tứ trạch",
     "hướng làm ăn"
   ],
+  "Floor": ["tầng", "lầu"],
+  "Floor_gac": ["gác", "gac", "gác lửng", "gac lung", "gác xép", "gac xep"],
   "Dont_care": [
     "không quan tâm",
     "không qtâm",

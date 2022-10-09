@@ -89,5 +89,12 @@
     "csv_file_path": "data/direction_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Direction"
+  },
+  "FLOOR": {
+    "column_name": "floor",
+    "new_column_name": "individual",
+    "csv_file_path": "data/floor_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Floor"
   }
 }
