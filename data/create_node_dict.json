@@ -96,5 +96,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FLOOR_GAC": {
+    "link": "https://www.dropbox.com/s/dca9dipjpa70rnh/floor_gac_data.csv?dl=1",
+    "label": "Floor_gac",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }
