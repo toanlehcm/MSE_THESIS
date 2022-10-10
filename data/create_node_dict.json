@@ -124,5 +124,19 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FLOOR_BAN_CONG": {
+    "link": "https://www.dropbox.com/s/bdcqi7dd7lu2rw0/floor_ban_cong_data.csv?dl=1",
+    "label": "Floor_ban_cong",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
+  "FLOOR_SAN_THUONG": {
+    "link": "https://www.dropbox.com/s/fx805vp7qcmsa4n/floor_san_thuong_data.csv?dl=1",
+    "label": "Floor_san_thuong",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

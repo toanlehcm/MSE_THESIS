@@ -124,5 +124,19 @@
     "csv_file_path": "data/floor_ham_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Floor_ham"
+  },
+  "FLOOR_BAN_CONG": {
+    "column_name": "floor_ban_cong",
+    "new_column_name": "individual",
+    "csv_file_path": "data/floor_ban_cong_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Floor_ban_cong"
+  },
+  "FLOOR_SAN_THUONG": {
+    "column_name": "floor_san_thuong",
+    "new_column_name": "individual",
+    "csv_file_path": "data/floor_san_thuong_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Floor_san_thuong"
   }
 }

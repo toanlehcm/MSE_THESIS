@@ -1017,6 +1017,8 @@
     "gac lung"
   ],
   "Floor_ham": ["hầm", "ham", "tầng hầm", "tang ham"],
+  "Floor_ban_cong": ["ban công", "ban cong"],
+  "Floor_san_thuong": ["sân thượng", "san thuong"],
   "Potential": [
     "tiềm năng",
     "triển vọng",
