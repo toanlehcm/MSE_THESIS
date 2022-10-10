@@ -117,5 +117,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FLOOR_HAM": {
+    "link": "https://www.dropbox.com/s/hmejmk8ldm53drw/floor_ham_data.csv?dl=1",
+    "label": "Floor_ham",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

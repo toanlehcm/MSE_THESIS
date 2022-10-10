@@ -117,5 +117,12 @@
     "csv_file_path": "data/floor_lung_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Floor_lung"
+  },
+  "FLOOR_HAM": {
+    "column_name": "floor_ham",
+    "new_column_name": "individual",
+    "csv_file_path": "data/floor_ham_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Floor_ham"
   }
 }
