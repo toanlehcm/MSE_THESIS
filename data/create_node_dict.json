@@ -166,5 +166,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "ROAD_WIDTH": {
+    "link": "https://www.dropbox.com/s/vf1bv2fqilkvmw5/road_width_data.csv?dl=1",
+    "label": "Road_width",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

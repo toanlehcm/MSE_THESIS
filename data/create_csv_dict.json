@@ -166,5 +166,12 @@
     "csv_file_path": "data/project_name_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Project_name"
+  },
+  "ROAD_WIDTH": {
+    "column_name": "road_width",
+    "new_column_name": "individual",
+    "csv_file_path": "data/road_width_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Road_width"
   }
 }
