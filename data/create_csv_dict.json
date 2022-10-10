@@ -145,5 +145,12 @@
     "csv_file_path": "data/front_length_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Front_length"
+  },
+  "LEGAL": {
+    "column_name": "legal",
+    "new_column_name": "individual",
+    "csv_file_path": "data/legal_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Legal"
   }
 }

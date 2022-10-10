@@ -145,5 +145,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "LEGAL": {
+    "link": "https://www.dropbox.com/s/j2b7vekwyok4vka/legal_data.csv?dl=1",
+    "label": "Legal",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }
