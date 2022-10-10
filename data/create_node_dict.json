@@ -152,5 +152,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "POSITION": {
+    "link": "https://www.dropbox.com/s/bug174fh87oljkm/position_data.csv?dl=1",
+    "label": "Position",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

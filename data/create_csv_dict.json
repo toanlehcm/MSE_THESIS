@@ -152,5 +152,12 @@
     "csv_file_path": "data/legal_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Legal"
+  },
+  "POSITION": {
+    "column_name": "position",
+    "new_column_name": "individual",
+    "csv_file_path": "data/position_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Position"
   }
 }
