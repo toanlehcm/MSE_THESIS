@@ -159,5 +159,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "PROJECT_NAME": {
+    "link": "https://www.dropbox.com/s/awotj6iqs8d3ipe/project_name_data.csv?dl=1",
+    "label": "Project_name",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

@@ -159,5 +159,12 @@
     "csv_file_path": "data/position_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Position"
+  },
+  "PROJECT_NAME": {
+    "column_name": "project_name",
+    "new_column_name": "individual",
+    "csv_file_path": "data/project_name_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Project_name"
   }
 }
