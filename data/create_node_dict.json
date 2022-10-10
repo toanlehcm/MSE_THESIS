@@ -110,5 +110,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FLOOR_LUNG": {
+    "link": "https://www.dropbox.com/s/kaz7id95t2xvbic/floor_lung_data.csv?dl=1",
+    "label": "Floor_lung",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

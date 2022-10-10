@@ -1007,7 +1007,15 @@
   ],
   "Floor": ["tầng", "lầu"],
   "Floor_gac": ["gác", "gac", "gác lửng", "gac lung", "gác xép", "gac xep"],
-  "Floor_tret": ["trệt", "tret"],
+  "Floor_tret": ["trệt", "tret", "tầng trệt", "tang tret"],
+  "Floor_lung": [
+    "lửng",
+    "lung",
+    "tầng lửng",
+    "tang lung",
+    "gác lửng",
+    "gac lung"
+  ],
   "Potential": [
     "tiềm năng",
     "triển vọng",

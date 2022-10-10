@@ -110,5 +110,12 @@
     "csv_file_path": "data/floor_tret_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Floor_tret"
+  },
+  "FLOOR_LUNG": {
+    "column_name": "floor_lung",
+    "new_column_name": "individual",
+    "csv_file_path": "data/floor_lung_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Floor_lung"
   }
 }
