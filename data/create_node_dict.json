@@ -138,5 +138,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "FRONT_LENGTH": {
+    "link": "https://www.dropbox.com/s/952ioqqhm349vsp/front_length_data.csv?dl=1",
+    "label": "Front_length",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

@@ -138,5 +138,12 @@
     "csv_file_path": "data/floor_san_thuong_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Floor_san_thuong"
+  },
+  "FRONT_LENGTH": {
+    "column_name": "front_length",
+    "new_column_name": "individual",
+    "csv_file_path": "data/front_length_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Front_length"
   }
 }
