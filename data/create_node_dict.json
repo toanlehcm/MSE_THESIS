@@ -173,5 +173,12 @@
     "id": "ID",
     "name": "individual",
     "alias": "alias"
+  },
+  "SURROUNDING": {
+    "link": "https://www.dropbox.com/s/cf9w1gq48cejk2o/surrounding_data.csv?dl=1",
+    "label": "Surrounding",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
   }
 }

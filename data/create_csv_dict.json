@@ -173,5 +173,12 @@
     "csv_file_path": "data/road_width_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "Road_width"
+  },
+  "SURROUNDING": {
+    "column_name": "surrounding",
+    "new_column_name": "individual",
+    "csv_file_path": "data/surrounding_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Surrounding"
   }
 }
