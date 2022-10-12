@@ -1,0 +1,26 @@
+{
+  "PRICE_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Price",
+    "foreign_line": "line[6]",
+    "relationship_name": "Price"
+  },
+  "STREET_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Street",
+    "foreign_line": "line[11]",
+    "relationship_name": "In"
+  },
+  "WARD_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "Street",
+    "primary_line": "line[11]",
+    "foreign_label": "Ward",
+    "foreign_line": "line[10]",
+    "relationship_name": "In"
+  }
+}
