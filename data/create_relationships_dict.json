@@ -1,26 +1,250 @@
 {
-  "PRICE_RELATION": {
+  "HOUSE_TRANSACTION_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Transaction",
+    "foreign_line": "line[3]",
+    "relationship_name": "House_has_transaction"
+  },
+  "HOUSE_PRICE_RELATION": {
     "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
     "primary_label": "House",
     "primary_line": "line[5]",
     "foreign_label": "Price",
     "foreign_line": "line[6]",
-    "relationship_name": "Price"
+    "relationship_name": "House_has_price"
   },
-  "STREET_RELATION": {
+  "HOUSE_AREA_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Area",
+    "foreign_line": "line[7]",
+    "relationship_name": "House_in_area"
+  },
+  "HOUSE_CITY_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "City",
+    "foreign_line": "line[8]",
+    "relationship_name": "House_in_city"
+  },
+  "HOUSE_DISTRICT_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "District",
+    "foreign_line": "line[9]",
+    "relationship_name": "House_in_district"
+  },
+  "HOUSE_WARD_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Ward",
+    "foreign_line": "line[10]",
+    "relationship_name": "House_in_ward"
+  },
+  "HOUSE_STREET_RELATION": {
     "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
     "primary_label": "House",
     "primary_line": "line[5]",
     "foreign_label": "Street",
     "foreign_line": "line[11]",
-    "relationship_name": "In"
+    "relationship_name": "House_in_street"
   },
-  "WARD_RELATION": {
+  "HOUSE_BATH_ROOM_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Bath_room",
+    "foreign_line": "line[14]",
+    "relationship_name": "House_has_bath_room"
+  },
+  "HOUSE_BED_ROOM_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Bed_room",
+    "foreign_line": "line[15]",
+    "relationship_name": "House_has_bed_room"
+  },
+  "HOUSE_LIVING_ROOM_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Living_room",
+    "foreign_line": "line[16]",
+    "relationship_name": "House_has_living_room"
+  },
+  "HOUSE_DIRECTION_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Direction",
+    "foreign_line": "line[17]",
+    "relationship_name": "House_has_direction"
+  },
+  "HOUSE_FLOOR_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor",
+    "foreign_line": "line[19]",
+    "relationship_name": "House_has_floor"
+  },
+  "HOUSE_FLOOR_GAC_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_gac",
+    "foreign_line": "line[20]",
+    "relationship_name": "House_has_floor_gac"
+  },
+  "HOUSE_FLOOR_TRET_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_tret",
+    "foreign_line": "line[21]",
+    "relationship_name": "House_has_floor_tret"
+  },
+  "HOUSE_FLOOR_LUNG_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_lung",
+    "foreign_line": "line[22]",
+    "relationship_name": "House_has_floor_lung"
+  },
+  "HOUSE_FLOOR_HAM_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_ham",
+    "foreign_line": "line[23]",
+    "relationship_name": "House_has_floor_ham"
+  },
+  "HOUSE_FLOOR_BAN_CONG_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_ban_cong",
+    "foreign_line": "line[24]",
+    "relationship_name": "House_has_floor_ban_cong"
+  },
+  "HOUSE_FLOOR_SAN_THUONG_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_san_thuong",
+    "foreign_line": "line[25]",
+    "relationship_name": "House_has_floor_san_thuong"
+  },
+  "HOUSE_FLOOR_LENGTH_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Floor_length",
+    "foreign_line": "line[26]",
+    "relationship_name": "House_has_floor_length"
+  },
+  "HOUSE_LEGAL_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Legal",
+    "foreign_line": "line[27]",
+    "relationship_name": "House_has_legal"
+  },
+  "HOUSE_POSITION_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Position",
+    "foreign_line": "line[29]",
+    "relationship_name": "House_has_position"
+  },
+  "HOUSE_PROJECT_NAME_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Project_name",
+    "foreign_line": "line[30]",
+    "relationship_name": "House_in_project"
+  },
+  "HOUSE_ROAD_WIDTH_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Road_width",
+    "foreign_line": "line[31]",
+    "relationship_name": "House_has_road_width"
+  },
+  "HOUSE_SURROUNDING_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Surrounding",
+    "foreign_line": "line[32]",
+    "relationship_name": "House_has_surrounding"
+  },
+  "HOUSE_POTENTIAL_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "House",
+    "primary_line": "line[5]",
+    "foreign_label": "Potential",
+    "foreign_line": "line[33]",
+    "relationship_name": "House_has_potential"
+  },
+  "STREET_WARD_RELATION": {
     "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
     "primary_label": "Street",
     "primary_line": "line[11]",
     "foreign_label": "Ward",
     "foreign_line": "line[10]",
-    "relationship_name": "In"
+    "relationship_name": "Street_in_ward"
+  },
+  "STREET_DISTRICT_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "Street",
+    "primary_line": "line[11]",
+    "foreign_label": "District",
+    "foreign_line": "line[9]",
+    "relationship_name": "Street_in_district"
+  },
+  "STREET_CITY_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "Street",
+    "primary_line": "line[11]",
+    "foreign_label": "City",
+    "foreign_line": "line[8]",
+    "relationship_name": "Street_in_city"
+  },
+  "WARD_DISTRICT_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "Ward",
+    "primary_line": "line[10]",
+    "foreign_label": "District",
+    "foreign_line": "line[9]",
+    "relationship_name": "Ward_in_district"
+  },
+  "WARD_CITY_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "Ward",
+    "primary_line": "line[10]",
+    "foreign_label": "City",
+    "foreign_line": "line[8]",
+    "relationship_name": "Ward_in_city"
+  },
+  "DISTRICT_CITY_RELATION": {
+    "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
+    "primary_label": "District",
+    "primary_line": "line[9]",
+    "foreign_label": "City",
+    "foreign_line": "line[8]",
+    "relationship_name": "District_in_city"
   }
 }
