@@ -6,6 +6,27 @@
     "new_alias_column_name": "alias",
     "alias_list": "House"
   },
+  "TRANSACTION": {
+    "column_name": "transaction",
+    "new_column_name": "individual",
+    "csv_file_path": "data/transaction_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Transaction"
+  },
+  "PRICE": {
+    "column_name": "price",
+    "new_column_name": "individual",
+    "csv_file_path": "data/price_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Price"
+  },
+  "AREA": {
+    "column_name": "area",
+    "new_column_name": "individual",
+    "csv_file_path": "data/area_data.csv",
+    "new_alias_column_name": "alias",
+    "alias_list": "Area"
+  },
   "CITY": {
     "column_name": "city",
     "new_column_name": "individual",
@@ -40,20 +61,6 @@
     "csv_file_path": "data/house_number_data.csv",
     "new_alias_column_name": "alias",
     "alias_list": "House_number"
-  },
-  "PRICE": {
-    "column_name": "price",
-    "new_column_name": "individual",
-    "csv_file_path": "data/price_data.csv",
-    "new_alias_column_name": "alias",
-    "alias_list": "Price"
-  },
-  "AREA": {
-    "column_name": "area",
-    "new_column_name": "individual",
-    "csv_file_path": "data/area_data.csv",
-    "new_alias_column_name": "alias",
-    "alias_list": "Area"
   },
   "POTENTIAL": {
     "column_name": "usage",

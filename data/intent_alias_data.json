@@ -161,6 +161,7 @@
     "penhouse",
     "villas dt"
   ],
+  "Transaction": ["mua", "thuê", "thue", "bán", "ban", "mướn", "muon"],
   "Price": [
     "giá",
     "giá mấy tiền",

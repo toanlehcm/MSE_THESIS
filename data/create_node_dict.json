@@ -6,6 +6,27 @@
     "name": "individual",
     "alias": "alias"
   },
+  "TRANSACTION": {
+    "link": "https://www.dropbox.com/s/077vtubqse26fnh/transaction_data.csv?dl=1",
+    "label": "Transaction",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
+  "PRICE": {
+    "link": "https://www.dropbox.com/s/jizo5p3m0x4nsux/price_data.csv?dl=1",
+    "label": "Price",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
+  "AREA": {
+    "link": "https://www.dropbox.com/s/1x3rvj3szza8vv5/area_data.csv?dl=1",
+    "label": "Area",
+    "id": "ID",
+    "name": "individual",
+    "alias": "alias"
+  },
   "CITY_NODE": {
     "link": "https://www.dropbox.com/s/tesj1dnpmxodtxy/city_data.csv?dl=1",
     "label": "City",
@@ -37,20 +58,6 @@
   "HOUSE_NUMBER_NODE": {
     "link": "https://www.dropbox.com/s/rk9m14wi9kon91y/house_number_data.csv?dl=1",
     "label": "House_number",
-    "id": "ID",
-    "name": "individual",
-    "alias": "alias"
-  },
-  "PRICE": {
-    "link": "https://www.dropbox.com/s/jizo5p3m0x4nsux/price_data.csv?dl=1",
-    "label": "Price",
-    "id": "ID",
-    "name": "individual",
-    "alias": "alias"
-  },
-  "AREA": {
-    "link": "https://www.dropbox.com/s/1x3rvj3szza8vv5/area_data.csv?dl=1",
-    "label": "Area",
     "id": "ID",
     "name": "individual",
     "alias": "alias"
