@@ -143,13 +143,13 @@
     "foreign_line": "line[25]",
     "relationship_name": "House_has_floor_san_thuong"
   },
-  "HOUSE_FLOOR_LENGTH_RELATION": {
+  "HOUSE_FRONT_LENGTH_RELATION": {
     "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
     "primary_label": "House",
     "primary_line": "line[5]",
-    "foreign_label": "Floor_length",
+    "foreign_label": "Front_length",
     "foreign_line": "line[26]",
-    "relationship_name": "House_has_floor_length"
+    "relationship_name": "House_has_front_length"
   },
   "HOUSE_LEGAL_RELATION": {
     "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
