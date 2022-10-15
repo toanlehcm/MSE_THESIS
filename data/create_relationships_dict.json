@@ -21,7 +21,7 @@
     "start_line": "line[5]",
     "end_node": "Area",
     "end_line": "line[7]",
-    "relationship_name": "House_in_area"
+    "relationship_name": "House_has_area"
   },
   "HOUSE_CITY_RELATION": {
     "link": "https://www.dropbox.com/s/dgpq4ppxyok02zh/HungThinhDB10K.csv?dl=1",
