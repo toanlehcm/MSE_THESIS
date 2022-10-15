@@ -940,7 +940,24 @@
     "hướng tây tứ trạch",
     "hướng làm ăn"
   ],
-  "Floor": ["tầng", "lầu"],
+  "Floor": [
+    "tầng",
+    "tang",
+    "lầu",
+    "lau",
+    "có mấy tầng",
+    "co may tang",
+    "bao nhiêu tầng",
+    "bao nhieu tang",
+    "có mấy lầu",
+    "co may lau",
+    "bao nhiêu lầu",
+    "bao nhieu lau",
+    "được mấy tầng",
+    "duoc may tang",
+    "được mấy lầu",
+    "duoc may lau"
+  ],
   "Floor_gac": ["gác", "gac", "gác lửng", "gac lung", "gác xép", "gac xep"],
   "Floor_tret": ["trệt", "tret", "tầng trệt", "tang tret"],
   "Floor_lung": [
