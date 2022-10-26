@@ -4,188 +4,188 @@
     "new_column_name": "individual",
     "csv_file_path": "data/house_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "House"
+    "alias_list": "real_estate_type"
   },
   "TRANSACTION": {
     "column_name": "transaction",
     "new_column_name": "individual",
     "csv_file_path": "data/transaction_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Transaction"
+    "alias_list": "transaction"
   },
   "PRICE": {
     "column_name": "price",
     "new_column_name": "individual",
     "csv_file_path": "data/price_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Price"
+    "alias_list": "price"
   },
   "AREA": {
     "column_name": "area",
     "new_column_name": "individual",
     "csv_file_path": "data/area_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Area"
+    "alias_list": "area"
   },
   "CITY": {
     "column_name": "city",
     "new_column_name": "individual",
     "csv_file_path": "data/city_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "City"
+    "alias_list": "city"
   },
   "DISTRICT": {
     "column_name": "district",
     "new_column_name": "individual",
     "csv_file_path": "data/district_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "District"
+    "alias_list": "district"
   },
   "WARD": {
     "column_name": "ward",
     "new_column_name": "individual",
     "csv_file_path": "data/ward_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Ward"
+    "alias_list": "ward"
   },
   "STREET": {
     "column_name": "street",
     "new_column_name": "individual",
     "csv_file_path": "data/street_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Street"
+    "alias_list": "street"
   },
   "HOUSE_NUMBER": {
     "column_name": "house_number",
     "new_column_name": "individual",
     "csv_file_path": "data/house_number_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "House_number"
+    "alias_list": "house_number"
   },
   "POTENTIAL": {
     "column_name": "usage",
     "new_column_name": "individual",
     "csv_file_path": "data/potential_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Potential"
+    "alias_list": "potential"
   },
   "BATH_ROOM": {
     "column_name": "bath_room",
     "new_column_name": "individual",
     "csv_file_path": "data/bath_room_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Bath_room"
+    "alias_list": "bath_room"
   },
   "BED_ROOM": {
     "column_name": "bed_room",
     "new_column_name": "individual",
     "csv_file_path": "data/bed_room_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Bed_room"
+    "alias_list": "bed_room"
   },
   "LIVING_ROOM": {
     "column_name": "living_room",
     "new_column_name": "individual",
     "csv_file_path": "data/living_room_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Living_room"
+    "alias_list": "living_room"
   },
   "DIRECTION": {
     "column_name": "direction",
     "new_column_name": "individual",
     "csv_file_path": "data/direction_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Direction"
+    "alias_list": "direction"
   },
   "FLOOR": {
     "column_name": "floor",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor"
+    "alias_list": "floor"
   },
   "FLOOR_GAC": {
     "column_name": "floor_gac",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_gac_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor_gac"
+    "alias_list": "floor_gac"
   },
   "FLOOR_TRET": {
     "column_name": "floor_tret",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_tret_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor_tret"
+    "alias_list": "floor_tret"
   },
   "FLOOR_LUNG": {
     "column_name": "floor_lung",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_lung_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor_lung"
+    "alias_list": "floor_lung"
   },
   "FLOOR_HAM": {
     "column_name": "floor_ham",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_ham_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor_ham"
+    "alias_list": "floor_ham"
   },
   "FLOOR_BAN_CONG": {
     "column_name": "floor_ban_cong",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_ban_cong_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor_ban_cong"
+    "alias_list": "floor_ban_cong"
   },
   "FLOOR_SAN_THUONG": {
     "column_name": "floor_san_thuong",
     "new_column_name": "individual",
     "csv_file_path": "data/floor_san_thuong_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Floor_san_thuong"
+    "alias_list": "floor_san_thuong"
   },
   "FRONT_LENGTH": {
     "column_name": "front_length",
     "new_column_name": "individual",
     "csv_file_path": "data/front_length_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Front_length"
+    "alias_list": "front_length"
   },
   "LEGAL": {
     "column_name": "legal",
     "new_column_name": "individual",
     "csv_file_path": "data/legal_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Legal"
+    "alias_list": "legal"
   },
   "POSITION": {
     "column_name": "position",
     "new_column_name": "individual",
     "csv_file_path": "data/position_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Position"
+    "alias_list": "position"
   },
   "PROJECT_NAME": {
     "column_name": "project_name",
     "new_column_name": "individual",
     "csv_file_path": "data/project_name_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Project_name"
+    "alias_list": "project_name"
   },
   "ROAD_WIDTH": {
     "column_name": "road_width",
     "new_column_name": "individual",
     "csv_file_path": "data/road_width_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Road_width"
+    "alias_list": "road_width"
   },
   "SURROUNDING": {
     "column_name": "surrounding",
     "new_column_name": "individual",
     "csv_file_path": "data/surrounding_data.csv",
     "new_alias_column_name": "alias",
-    "alias_list": "Surrounding"
+    "alias_list": "surrounding"
   }
 }

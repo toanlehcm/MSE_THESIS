@@ -1,5 +1,5 @@
 {
-  "House": [
+  "real_estate_type": [
     "nhà",
     "shophouse",
     "chung cu",
@@ -161,7 +161,7 @@
     "penhouse",
     "villas dt"
   ],
-  "Transaction": [
+  "transaction": [
     "mua",
     "thuê",
     "thue",
@@ -174,7 +174,7 @@
     "sang nhuong",
     "can tim"
   ],
-  "Price": [
+  "price": [
     "giá",
     "giá mấy tiền",
     "giá bao nhiêu",
@@ -389,7 +389,7 @@
     " khoang bao nhieu tien",
     " khoang bn tien"
   ],
-  "Area": [
+  "area": [
     "diện tích ra sao",
     "diện tích thế nào",
     "diện tích tn",
@@ -759,7 +759,7 @@
     "dien tich tb khoang bn ",
     "dien tich tb khoang bn ?"
   ],
-  "City": [
+  "city": [
     "thành phố",
     "thanh pho",
     "tại thành phố nào",
@@ -785,7 +785,7 @@
     "tp",
     "ở tp"
   ],
-  "District": [
+  "district": [
     "quận",
     "quan",
     "tại quận nào",
@@ -811,7 +811,7 @@
     "q",
     "ở q"
   ],
-  "Ward": [
+  "ward": [
     "phường",
     "phuong",
     "tại phường nào",
@@ -837,7 +837,7 @@
     "p",
     "ở p"
   ],
-  "Street": [
+  "street": [
     "đường",
     "duong",
     "tại đường nào",
@@ -863,7 +863,7 @@
     "d",
     "ở d"
   ],
-  "House_number": [
+  "house_number": [
     "số nhà",
     "so nha",
     "tại số nhà nào",
@@ -887,7 +887,7 @@
     "thuoc so nha ?",
     "gan so nha nao"
   ],
-  "Bath_room": [
+  "bath_room": [
     "tắm",
     "tam",
     "nhà tắm",
@@ -905,7 +905,7 @@
     "p tắm",
     "p tam"
   ],
-  "Bed_room": [
+  "bed_room": [
     "ngủ",
     "ngu",
     "chỗ ngủ",
@@ -919,7 +919,7 @@
     "p ngủ",
     "p ngu"
   ],
-  "Living_room": [
+  "living_room": [
     "phòng khách",
     "phong khach",
     "p khách",
@@ -927,7 +927,7 @@
     "phong khách",
     "p khach"
   ],
-  "Direction": [
+  "direction": [
     "hướng",
     "huong",
     "phía",
@@ -964,7 +964,7 @@
     "tb",
     "tn"
   ],
-  "Floor": [
+  "floor": [
     "tầng",
     "tang",
     "lầu",
@@ -986,7 +986,7 @@
     "có lầu không",
     "co lau khong"
   ],
-  "Floor_gac": [
+  "floor_gac": [
     "gác",
     "gac",
     "gác lửng",
@@ -1010,7 +1010,7 @@
     "có gác xép không",
     "co gac xep khong"
   ],
-  "Floor_tret": [
+  "floor_tret": [
     "trệt",
     "tret",
     "tầng trệt",
@@ -1022,7 +1022,7 @@
     "được mấy tầng trệt",
     "duoc may tang tret"
   ],
-  "Floor_lung": [
+  "floor_lung": [
     "lửng",
     "lung",
     "tầng lửng",
@@ -1046,7 +1046,7 @@
     "có gác lửng không",
     "co gac lung khong"
   ],
-  "Floor_ham": [
+  "floor_ham": [
     "hầm",
     "ham",
     "tầng hầm",
@@ -1060,7 +1060,7 @@
     "có tầng hầm không",
     "co tang ham khong"
   ],
-  "Floor_ban_cong": [
+  "floor_ban_cong": [
     "ban công",
     "ban cong",
     "có mấy ban công",
@@ -1072,13 +1072,13 @@
     "có ban công không",
     "co ban cong khong"
   ],
-  "Floor_san_thuong": [
+  "floor_san_thuong": [
     "sân thượng",
     "san thuong",
     "có sân thượng không",
     "co san thuong khong"
   ],
-  "Front_length": [
+  "front_length": [
     "chiều dài mặt tiền",
     "chieu dai mat tien",
     "chiều dài mặt tiền bao nhiêu",
@@ -1088,7 +1088,7 @@
     "chiều dài mặt tiền được bao nhiêu",
     "chieu dai mat tien duoc bao nhieu"
   ],
-  "Legal": [
+  "legal": [
     "pháp lý",
     "phap ly",
     "sổ đỏ",
@@ -1145,7 +1145,7 @@
     "co kxd khong",
     "co kxd chua"
   ],
-  "Position": [
+  "position": [
     "hẻm",
     "hem",
     "mặt tiền",
@@ -1228,7 +1228,7 @@
     "gan vi tri nao",
     "gan dia diem nao"
   ],
-  "Location": [
+  "location": [
     "tại khu vực nào",
     "tại khu vực ?",
     "tại vị trí nào",
@@ -1294,7 +1294,7 @@
     "gan vi tri nao",
     "gan dia diem nao"
   ],
-  "Project_name": [
+  "project_name": [
     "dự án",
     "du an",
     "dự án nào",
@@ -1304,7 +1304,7 @@
     "nằm trong dự án nào",
     "nam trong du an nao"
   ],
-  "Road_width": [
+  "road_width": [
     "chiều rộng",
     "chieu rong",
     "chiều rộng mặt đường",
@@ -1330,7 +1330,7 @@
     "mặt đường hẹp hay rộng",
     "mat duong hep hay rong"
   ],
-  "Surrounding": [
+  "surrounding": [
     "xung quanh",
     "gần",
     "xung quanh có gì",
@@ -1345,7 +1345,7 @@
     "gan do nhu the nao",
     "gan do ntn"
   ],
-  "Potential": [
+  "potential": [
     "tiềm năng",
     "triển vọng",
     "mục đích",
@@ -1482,7 +1482,7 @@
     "cho muc dich ntn",
     "cho muc dich gi"
   ],
-  "Dont_care": [
+  "dont_care": [
     "không quan tâm",
     "không qtâm",
     "không qt",
