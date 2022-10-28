@@ -1,0 +1,41 @@
+{
+  "real_estate_type": {
+    "transaction": "(real_estate_type:House)-->(transaction:Transaction)",
+    "price": "(real_estate_type:House)-->(price:Price)",
+    "area": "(real_estate_type:House)-->(area:Area)",
+    "city": "(real_estate_type:House)-->(city:City)",
+    "district": "(real_estate_type:House)-->(district:District)",
+    "ward": "(real_estate_type:House)-->(ward:Ward)",
+    "street": "(real_estate_type:House)-->(street:Street)",
+    "bath_room": "(real_estate_type:House)-->(bath_room:Bath_room)",
+    "bed_room": "(real_estate_type:House)-->(bed_room:Bed_room)",
+    "living_room": "(real_estate_type:House)-->(living_room:Living_room)",
+    "direction": "(real_estate_type:House)-->(direction:Direction)",
+    "floor": "(real_estate_type:House)-->(floor:Floor)",
+    "floor_gac": "(real_estate_type:House)-->(floor_gac:Floor_gac)",
+    "floor_tret": "(real_estate_type:House)-->(floor_tret:Floor_tret)",
+    "floor_lung": "(real_estate_type:House)-->(floor_lung:Floor_lung)",
+    "floor_ham": "(real_estate_type:House)-->(floor_ham:Floor_ham)",
+    "floor_ban_cong": "(real_estate_type:House)-->(floor_ban_cong:Floor_ban_cong)",
+    "floor_san_thuong": "(real_estate_type:House)-->(floor_san_thuong:Floor_san_thuong)",
+    "front_length": "(real_estate_type:House)-->(front_length:Front_length)",
+    "legal": "(real_estate_type:House)-->(legal:Legal)",
+    "position": "(real_estate_type:House)-->(position:Position)",
+    "project_name": "(real_estate_type:House)-->(project_name:Project_name)",
+    "road_width": "(real_estate_type:House)-->(road_width:Road_width)",
+    "surrounding": "(real_estate_type:House)-->(surrounding:Surrounding)",
+    "potential": "(real_estate_type:House)-->(potential:Potential)"
+  },
+  "street": {
+    "ward": "(street:Street)-->(ward:Ward)",
+    "district": "(street:Street)-->(district:District)",
+    "city": "(street:Street)-->(city:City)"
+  },
+  "ward": {
+    "district": "(ward:Ward)-->(district:District)",
+    "city": "(ward:Ward)-->(city:City)"
+  },
+  "district": {
+    "city": "(district:District)-->(city:City)"
+  }
+}
