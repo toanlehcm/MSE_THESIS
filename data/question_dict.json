@@ -1,10 +1,10 @@
 {
   "real_estate_type": [
-    "tôi muốn mua nhà Q1, TPHCM, giá khoảng 5 tỷ",
-    "tôi muốn mua chung cư Q2, TPHCM, giá khoảng 6 tỷ",
-    "tôi muốn mua shophouse Q3, TPHCM, giá khoảng 7 tỷ",
-    "tôi muốn mua officetel Q3, TPHCM, giá khoảng 8 tỷ",
-    "mình cần mua mặt bằng rộng, đẹp, trung tâm để làm cafe"
+    "tôi muốn mua smarthome quận 1, TPHCM, giá khoảng 5 tỷ",
+    "tôi muốn mua penthouse quận 2, TPHCM, giá khoảng 6 tỷ",
+    "tôi muốn mua shophouse quận 3, TPHCM, giá khoảng 7 tỷ",
+    "tôi muốn mua officetel quận 3, TPHCM, giá khoảng 8 tỷ",
+    "mình cần mua shophouse rộng, đẹp, quận 1 để làm cafe"
   ],
   "price": [
     "nhà ở quận 1 thường có giá khoảng bao nhiêu",
@@ -24,8 +24,7 @@
     "nhà hoặc căn hộ giá khoảng 2 tỷ thì mua ở quận nào",
     "nhà hoặc căn hộ giá từ 2 tỷ đến 3 tỷ thì mua ở quận nào",
     "nhà hoặc căn hộ giá khoang 1 ti 2, 1 ti 3 toi 2 ti thì mua ở quận nào",
-    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào nhỉ",
-    "biệt thự Minh Thành quận nào"
+    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào nhỉ"
   ],
   "bed_room": [
     "Cần mua căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu hà nội",

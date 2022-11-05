@@ -161,7 +161,8 @@
     "penhouse",
     "villas dt",
     "căn hộ",
-    "can ho"
+    "can ho",
+    "chung cư"
   ],
   "transaction": [
     "mua",
@@ -806,7 +807,8 @@
     "thuoc thanh pho ?",
     "gan thanh pho nao",
     "tp",
-    "ở tp"
+    "ở tp",
+    "TP"
   ],
   "district": [
     "quận",
@@ -832,7 +834,8 @@
     "thuoc quan ?",
     "gan quan nao",
     "q",
-    "ở q"
+    "ở q",
+    "Q"
   ],
   "ward": [
     "phường",
@@ -1325,7 +1328,10 @@
     "thuộc dự án nào",
     "thuoc du an nao",
     "nằm trong dự án nào",
-    "nam trong du an nao"
+    "nam trong du an nao",
+    "smarthome",
+    "shophouse",
+    "officetel"
   ],
   "road_width": [
     "chiều rộng",
