@@ -1,0 +1,89 @@
+{
+  "real_estate_type": [
+    "tôi muốn mua nhà Q1, TPHCM, giá khoảng 5 tỷ",
+    "tôi muốn mua chung cư Q2, TPHCM, giá khoảng 6 tỷ",
+    "tôi muốn mua shophouse Q3, TPHCM, giá khoảng 7 tỷ",
+    "tôi muốn mua officetel Q3, TPHCM, giá khoảng 8 tỷ",
+    "mình cần mua mặt bằng rộng, đẹp, trung tâm để làm cafe"
+  ],
+  "transaction": [],
+  "price": [
+    "nhà ở quận 1 thường có giá khoảng bao nhiêu",
+    "mua nhà diện tích 20m2 ở quận 1 có giá bao nhiêu",
+    "mua nhà diện tích 20m2 đến 30m2 ở quận 1 có giá bao nhiêu",
+    "mua nhà có 1 phòng khách, 2 phòng tắm, 3 phòng ngủ ở quận 1 có giá bao nhiêu",
+    "2 mảnh biệt thự trong dự án thủ thiêm giá bao nhiêu"
+  ],
+  "area": [
+    "1 căn nhà có 3 tầng giá khoảng 4 tỷ  độ rộng trung bình khoảng bao nhiêu mét vuông",
+    "10 triệu 1 tháng thì mua  được nhà nguyên căn rộng khoảng bao nhiêu",
+    "2 tỉ mua nhà 2 phòng ngủ thì rộng không",
+    "3 triệu 1 tháng thì mua trọ rộng không",
+    "biệt thự 1 tỉ thì diện tích sao"
+  ],
+  "city": [],
+  "district": [
+    "nhà hoặc căn hộ giá khoảng 2 tỷ thì mua ở quận nào",
+    "nhà hoặc căn hộ giá từ 2 tỷ đến 3 tỷ thì mua ở quận nào",
+    "nhà hoặc căn hộ giá khoang 1 ti 2, 1 ti 3 toi 2 ti thì mua ở quận nào",
+    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào nhỉ",
+    "biệt thự Minh Thành quận nào"
+  ],
+  "ward": [],
+  "street": [],
+  "bath_room": [],
+  "bed_room": [
+    "Cần mua căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu hà nội",
+    "Cần mua căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu tp hồ chí minh",
+    "nhà 2 phòng ngủ 2 toilet  độ rộng bao nhiêu",
+    "Cần tìm căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu tp hồ chí minh",
+    "mua căn chung cư 3 phòng ngủ 2 phòng vệ sinhfull nội thất ở đâu"
+  ],
+  "living_room": [],
+  "direction": [],
+  "floor": [
+    "1 căn nhà có 3 tầng giá khoảng 4 tỷ  độ rộng trung bình khoảng bao nhiêu mét vuông",
+    "cả gia đình ở căn nhà có 5 tầng  độ rộng ntn",
+    "có biệt thự huyện Thạch Thất có 5 tầng có sổ hồng có xe máy rộng bn mét 2",
+    "còn nhà có 2 tầng có giấy phép xây dựng dt khoảng bao nhiêu",
+    "nếu nhà có 3 tầng có hợp đồng mua bán giá khoảng 4 tỷ rộng thế nào"
+  ],
+  "floor_gac": [],
+  "floor_tret": [],
+  "floor_lung": [],
+  "floor_ham": [],
+  "floor_ban_cong": [],
+  "floor_san_thuong": [],
+  "front_length": [],
+  "legal": [
+    "căn hộ sổ đỏ dự án Lagi ở đâu",
+    "cần mua đất trong hẻm  có sổ hồng ở đâu giá rẻ",
+    "cần mua biệt thự có sổ hồng ở đâu giá rẻ",
+    "có nhà ở huyện Thạch Thất có 5 tầng có sổ đỏ có xe máy rộng bn mét 2",
+    "có nhà ở huyện Thạch Thất có 5 tầng có sổ đỏ có xe máy rộng bn mét 2"
+  ],
+  "position": [
+    "căn hộ mặt tiền 1 PN hoặc căn hộ mặt tiền  mini khu vực quận nào",
+    "1 nền mặt tiền khu đông dân rộng như thế nào",
+    "biệt thự mặt tiền  tại dự án Green Dragon, TTP Cẩm Phả diện tích khoảng bao nhiêu ?",
+    "biệt thự mặt tiền  Thanh Hà giá rẻ. rộng khoảng bao nhiêu",
+    "các nhà trong hẻm giá dưới 1 tỉ có đủ rộng để để ô tô không"
+  ],
+  "location": [
+    "biệt thự ở khu vực nào tphcm giá rẻ",
+    "biệt thự dự án Lagi ở đâu",
+    "Cần mua biệt thự khu Làng Châu Âu chỗ nào tốt",
+    "Cần mua biệt thự nền King Bay ở chỗ nào",
+    "Cần mua mặt bằng kinh doanh cà phê ở đâu"
+  ],
+  "project_name": [],
+  "road_width": [],
+  "surrounding": [],
+  "potential": [
+    "biệt thự  khu vực Tân  mai, Đền Lừ kinh doanh gì",
+    "biệt thự 4 tầng có thuận tiện cho mua không",
+    "biệt thự cho thuê được lợi ích gì",
+    "căn hộ cho thuê được lợi ích gì",
+    "căn hộ thủ đức mua tương lai được gì"
+  ]
+}

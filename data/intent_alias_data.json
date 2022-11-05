@@ -405,12 +405,14 @@
     "tri gia ntn",
     "tri gia sao",
     "tri gia ra sao",
-    " bao nhieu tien",
-    " khoang bao nhieu",
-    " khoang bao nhieu tien",
-    " khoang bn tien"
+    "bao nhieu tien",
+    "khoang bao nhieu",
+    "khoang bao nhieu tien",
+    "khoang bn tien"
   ],
   "area": [
+    "diện tích",
+    "dien tich",
     "diện tích ra sao",
     "diện tích thế nào",
     "diện tích tn",
@@ -811,7 +813,7 @@
     "quan",
     "tại quận nào",
     "tại q nào",
-    "o quận nào",
+    "ở quận nào",
     "o q nào",
     "nằm ở quận nào",
     "nằm tại quận ",
