@@ -1,6 +1,87 @@
 import constants
 
 
+def handle_gen_query(concepts_keys, evidences, match_relation):
+    """
+    It takes a list of concepts, a list of evidences, and a list of relations, and returns a query that
+    matches the concepts, and filters the results based on the evidences
+
+    :param concepts_keys: ['location', 'price', 'area', 'usage']
+    :param evidences: {'location': ['Hà Nội'], 'price': ['1 tỷ'], 'area': ['100 m2']}
+    :param match_relation:
+    :return: The query returns the following:
+    """
+    out = """
+    MATCH {}
+    WHERE {}
+    RETURN {}
+    LIMIT 50
+        """
+    conditions = []
+    matched_labels = []  # Format: (alias:Node_name)
+    returned_labels = []  # Format: (alias.individual)
+
+    # Define matched labels.
+    if not concepts_keys:
+        matched_labels = ['n']
+    else:
+        for concept_key in concepts_keys:
+            matched_labels.append('(' + concept_key + ':' +
+                                  concept_key.title() + ')')
+
+    # Define returned labels.
+    returned_labels = matched_labels.copy()
+
+    # ----- Define condition labels. -----
+    # Condition common.
+    [returned_labels,
+     conditions] = condition_common(evidences, matched_labels, returned_labels,
+                                    conditions)
+
+    # Condition for location.
+    [returned_labels,
+     conditions] = condition_location(evidences, matched_labels,
+                                      returned_labels, conditions)
+
+    # Condition for price.
+    [returned_labels,
+     conditions] = condition_price_n_area(True, evidences, matched_labels,
+                                          returned_labels, conditions)
+
+    # Condition for area.
+    [returned_labels,
+     conditions] = condition_price_n_area(False, evidences, matched_labels,
+                                          returned_labels, conditions)
+
+    # Condition for usage.
+    [returned_labels,
+     conditions] = condition_usage(evidences, matched_labels, returned_labels,
+                                   conditions)
+
+    # Adjust returned labels
+    adjusted_return_labels = []
+
+    for return_label in returned_labels:
+        if (constants.LABEL_REAL_ESTATE_TYPE).title() in return_label:
+            return_label = return_label.replace(
+                (constants.LABEL_REAL_ESTATE_TYPE).title(),
+                (constants.LABEL_HOUSE).title())
+        elif (constants.LABEL_REAL_ESTATE_SUB_TYPE).title() in return_label:
+            return_label = return_label.replace(
+                (constants.LABEL_REAL_ESTATE_SUB_TYPE).title(),
+                (constants.LABEL_HOUSE).title())
+
+        return_label = f"collect(distinct {return_label.split('(')[1].split(':')[0]}.individual) AS {(return_label.split(':')[1].split(')')[0]).title()}"
+
+        adjusted_return_labels.append(return_label)
+
+    return out.format(
+        ', '.join(match_relation),
+        ' \nAND '.join([f"{x}" for x in conditions]),
+        ',\n '.join(adjusted_return_labels),
+    )
+
+
 def condition_common(evidences, matched_labels, returned_labels, conditions):
     ##
     # Condition common: real estate, position, direction, floor....
