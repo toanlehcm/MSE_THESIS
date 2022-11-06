@@ -7,32 +7,32 @@
     "mình cần mua shophouse rộng, đẹp, quận 1 để làm cafe"
   ],
   "price": [
-    "nhà ở quận 1 thường có giá khoảng bao nhiêu-done",
-    "mua nhà diện tích 20m2 ở quận 1 có giá bao nhiêu-done",
-    "mua nhà diện tích 20m2 đến 30m2 ở quận 1 có giá bao nhiêu-done",
-    "mua nhà có 1 phòng khách, 2 phòng tắm, 3 phòng ngủ ở quận 1 có giá bao nhiêu-done",
-    "mua nhà có 1 phòng khách, 1 phòng tắm, 2 phòng ngủ ở quận 10 có giá bao nhiêu-done"
+    "nhà ở quận 1 thường có giá khoảng bao nhiêu",
+    "mua nhà diện tích 20m2 ở quận 1 có giá bao nhiêu",
+    "mua nhà diện tích 20m2 đến 30m2 ở quận 1 có giá bao nhiêu",
+    "mua nhà có 1 phòng khách, 2 phòng tắm, 3 phòng ngủ ở quận 1 có giá bao nhiêu",
+    "2 mảnh biệt thự trong dự án thủ thiêm giá bao nhiêu"
   ],
   "area": [
-    "Phòng trọ giá 3 triệu, quận 1 thì diện tích như thế nào-done",
-    "nhà giá 4 tỷ, quận 2 thì rộng bao nhiêu-done",
-    "nhà giá 130 tỷ, quận phu nhuan thì diện tích trung bình ra sao-done",
-    "phòng trọ giá 5 triệu, quận 9 thì rộng như thế nào-done",
-    "nhà giá 5 tỷ, quận 10 thì diện tích bao nhiêu-done"
+    "1 căn nhà có 3 tầng giá khoảng 4 tỷ  độ rộng trung bình khoảng bao nhiêu mét vuông",
+    "10 triệu 1 tháng thì mua  được nhà nguyên căn rộng khoảng bao nhiêu",
+    "2 tỉ mua nhà 2 phòng ngủ thì rộng không",
+    "3 triệu 1 tháng thì mua trọ rộng không",
+    "biệt thự 1 tỉ thì diện tích sao"
   ],
-  "district": [
-    "nhà hoặc căn hộ giá khoảng 2 tỷ thì mua ở quận nào-done",
-    "nhà hoặc căn hộ giá từ 2 tỷ đến 3 tỷ thì mua ở quận nào-done",
-    "nhà hoặc căn hộ giá khoang 1 ti 2, 1 ti 3 toi 2 ti thì mua ở quận nào-done",
-    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào-done",
-    "mình đang có 4 tỷ, nên mua smarthome ở quận nào-done"
+  "district-done": [
+    "nhà hoặc căn hộ giá khoảng 2 tỷ thì mua ở quận nào",
+    "nhà hoặc căn hộ giá từ 2 tỷ đến 3 tỷ thì mua ở quận nào",
+    "nhà hoặc căn hộ giá khoang 1 ti 2, 1 ti 3 toi 2 ti thì mua ở quận nào",
+    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào",
+    "mình đang có 4 tỷ, nên mua smarthome ở quận nào"
   ],
   "bed_room": [
-    "Cần mua căn hộ 02 phòng ngủ, 01 nhà tắm ở đâu hà nội",
-    "Cần mua căn hộ 02 phòng ngủ, 02 nhà tắm ở đâu tp hồ chí minh",
-    "nhà 2 phòng ngủ 2 nhà tắm  độ rộng bao nhiêu",
-    "Cần tìm căn hộ 02 phòng ngủ, 02 nhà tắm ở đâu tp hồ chí minh",
-    "mua căn chung cư 3 phòng ngủ 2 nhà tắm full nội thất ở đâu"
+    "Cần mua căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu hà nội",
+    "Cần mua căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu tp hồ chí minh",
+    "nhà 2 phòng ngủ 2 toilet  độ rộng bao nhiêu",
+    "Cần tìm căn hộ 02 phòng ngủ, 02 vệ sinh ở đâu tp hồ chí minh",
+    "mua căn chung cư 3 phòng ngủ 2 phòng vệ sinhfull nội thất ở đâu"
   ],
   "floor": [
     "1 căn nhà có 3 tầng giá khoảng 4 tỷ  độ rộng trung bình khoảng bao nhiêu mét vuông",
