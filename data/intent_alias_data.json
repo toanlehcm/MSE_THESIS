@@ -195,8 +195,6 @@
     "đồng",
     "dong",
     "vnd",
-    "k",
-    "kk",
     "giá",
     "giá mấy tiền",
     "giá bao nhiêu",
@@ -301,7 +299,6 @@
     "tri giá sao",
     "tri giá ra sao",
     "bao nhiêu tiền",
-    "khoảng bao nhiêu",
     "khoảng bao nhiêu tiền",
     "khoảng bn tiền",
     "gia may tien",
@@ -810,7 +807,8 @@
     "ở tp",
     "TP",
     "thủ đô",
-    "thu đo"
+    "thu đo",
+    "tỉnh"
   ],
   "district": [
     "quận",
@@ -834,7 +832,9 @@
     "nam tai quan nao",
     "thuoc quan nao",
     "thuoc quan ?",
-    "gan quan nao"
+    "gan quan nao",
+    "huyện",
+    "huyen"
   ],
   "ward": [
     "phường",
