@@ -1,11 +1,5 @@
 {
-  "real_estate_type": [
-    "tôi muốn mua smarthome quận 1, TPHCM, giá khoảng 5 tỷ",
-    "tôi muốn mua penthouse quận 2, TPHCM, giá khoảng 6 tỷ",
-    "tôi muốn mua shophouse quận 3, TPHCM, giá khoảng 7 tỷ",
-    "tôi muốn mua officetel quận 3, TPHCM, giá khoảng 8 tỷ",
-    "mình cần mua shophouse rộng, đẹp, quận 1 để làm cafe"
-  ],
+  "real_estate_type": [],
   "price": [
     "nhà ở quận 1 thường có giá khoảng bao nhiêu-done",
     "mua nhà diện tích 20m2 ở quận 1 có giá bao nhiêu-done",
@@ -56,12 +50,12 @@
     "chung cư có giá 2 tỷ, diện tích 98m2, thủ đô Hà Nội, trong hẻm, mua ở quận nào-done",
     "studio giá 2 tỷ, thành phố Hải Phòng, trong hẻm, rộng bao nhiêu-done"
   ],
-  "location": [
-    "biệt thự ở khu vực nào tphcm giá rẻ",
-    "biệt thự dự án Lagi ở đâu",
-    "Cần mua biệt thự khu Làng Châu Âu chỗ nào tốt",
-    "Cần mua biệt thự nền King Bay ở chỗ nào",
-    "Cần mua mặt bằng kinh doanh cà phê ở đâu"
+  "direction": [
+    "chung cư diện tích 30m2, quận Long Biên, ở hướng Nam, giá bao nhiêu-done",
+    "chung cư giá 3 tỷ, quận 7, ở hướng Đông, rộng bao nhiêu-done",
+    "chung cư giá 2 tỷ, diện tích 75m2, thủ đô Hà Nội, hướng Bắc, mua ở quận nào-done",
+    "chung cư giá 3 tỷ, diện tích 30m2, quận Long Biên, hướng Nam, có bao nhiêu tầng-done",
+    "chung cư giá 2 tỷ, diện tích 69m2, thủ đô Hà Nội, hướng Tây, mua ở quận nào-done"
   ],
   "potential": [
     "biệt thự  khu vực Tân  mai, Đền Lừ kinh doanh gì",
