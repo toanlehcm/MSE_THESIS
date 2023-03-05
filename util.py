@@ -9,11 +9,11 @@ def get_concepts(text):
   :return: A dictionary of concepts and their aliases.
   """
     with open('data/intent_alias_data.json', encoding="utf8") as f:
-        dictionary = json.load(f)
+        intent_alias_data = json.load(f)
 
     out = {}
-    for concept in dictionary:
-        for alias in sorted(dictionary[concept], key=len, reverse=1):
+    for concept in intent_alias_data:
+        for alias in sorted(intent_alias_data[concept], key=len, reverse=1):
             if alias in text:
                 out[concept] = alias
                 break
