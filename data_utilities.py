@@ -1,5 +1,6 @@
 import re
 
+# Remove Vietnamese accent.
 def remove_vietnamese_accent(s):
 #     s = s.decode('utf-8')
     s = re.sub(u'[àáạảãâầấậẩẫăằắặẳẵ]', 'a', s)
@@ -21,6 +22,7 @@ def remove_vietnamese_accent(s):
     return s
 
 
+# Normalize the value returned by NER to match the DB.
 def compound2unicode(text):
   #https://gist.github.com/redphx/9320735`
   text = text.replace("\u0065\u0309", "\u1EBB")    # ẻ
