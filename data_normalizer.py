@@ -335,7 +335,7 @@ def normalize_room(text):
         text = re.sub(r"\b{}\b".format(key), "{}".format(value), text)
 
     text = text + ' ' + temp
-    num_arr = [i.group() for i in re.finditer(re_num, text)] # Find all number matches in a string and return an iterator that yields match objects.
+    num_arr = [i.group() for i in re.finditer(re_num, text)] # Find all the numbers in the string that match the pattern.
     num_arr = [int(float(i.replace(' ', ''))) for i in num_arr] # Convert string to int the number of rooms.
 
     if len(num_arr) > 0: # Determine the number of rooms.
@@ -359,9 +359,9 @@ def normalize_room(text):
 
     return room_name[current_idx], num_room
 
-
+# ---------- Floor ----------
 def lcs(X, Y):
-    X = X.replace(' ', '')
+    X = X.replace(' ', '') # Remove whitespace.
     Y = Y.replace(' ', '')
     m = len(X)
     n = len(Y)
@@ -383,7 +383,7 @@ def lcs(X, Y):
     return L[m][n]
 
 
-# ---------- Floor ----------
+
 re_floor = [
     "tang",
     "lau",
@@ -428,15 +428,15 @@ def normalize_floor(text):
         return None, 1
 
     temp = text[-1]
-    text = ' '.join(text[:-1])
+    text = ' '.join(text[:-1]) # For check maping_num.
 
     # Change the text that is a number written in words to a numeric symbol.
     for key, value in maping_num.items():
         text = re.sub(r"\b{}\b".format(key), "{}".format(value), text)
 
     text = text + ' ' + temp
-    num_arr = [i.group() for i in re.finditer('\d+(\s\.\s\d+)?', text)]
-    num_arr = [int(float(i.replace(' ', ''))) for i in num_arr]
+    num_arr = [i.group() for i in re.finditer('\d+(\s\.\s\d+)?', text)] # Find all the numbers in the string that match the pattern.
+    num_arr = [int(float(i.replace(' ', ''))) for i in num_arr] # Convert string to int the number of floors.
 
     if len(num_arr) > 0:
         num_floor = min(num_arr)
@@ -445,15 +445,15 @@ def normalize_floor(text):
 
     lcs_list = list()
 
-    for regex in re_floor:
+    for regex in re_floor: # Check which text matches best in the re_floor list.
         lcs_list.append(lcs(regex, text))
 
-##     print(text)
-##     print(lcs_list)
-    best_match = max(lcs_list)
-    if best_match == 0:
+    ##print(text)
+    ##print(lcs_list)
+    best_match = max(lcs_list) # Get the best match.
+    if best_match == 0: # Return 'tang' is default.
         return 'tang', num_floor
-    else:
+    else: # Returns the floor name and corresponding floor number.
         return floor_name[lcs_list.index(best_match)], num_floor + half
 
 
