@@ -328,17 +328,17 @@ room_name = [
 def normalize_room(text):
     text = text.split()
     temp = text[-1]
-    text = ' '.join(text[:-1])
+    text = ' '.join(text[:-1]) # For check maping_num.
 
     # Change the text that is a number written in words to a numeric symbol.
     for key, value in maping_num.items():
         text = re.sub(r"\b{}\b".format(key), "{}".format(value), text)
 
     text = text + ' ' + temp
-    num_arr = [i.group() for i in re.finditer(re_num, text)]
-    num_arr = [int(float(i.replace(' ', ''))) for i in num_arr]
+    num_arr = [i.group() for i in re.finditer(re_num, text)] # Find all number matches in a string and return an iterator that yields match objects.
+    num_arr = [int(float(i.replace(' ', ''))) for i in num_arr] # Convert string to int the number of rooms.
 
-    if len(num_arr) > 0:
+    if len(num_arr) > 0: # Determine the number of rooms.
         num_room = min(num_arr)
     else:
         num_room = 1
@@ -350,7 +350,7 @@ def normalize_room(text):
         ##         print(text)
         keys = [i.group() for i in re.finditer(regex, text)]
         ##         print(idx, keys)
-        if len(keys) > 0 and len(current_key) < len(max(keys, key=len)):
+        if len(keys) > 0 and len(current_key) < len(max(keys, key=len)): # Determine current_idx to get the corresponding room_name.
             current_key = max(keys, key=len)
             current_idx = idx
 
