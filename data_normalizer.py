@@ -281,25 +281,25 @@ def normalize_area(text):
     return low, high
 
 
-def normalize_area_x(text):
+def normalize_area_x(text): # Calculate area.
     factor = 1
     if 'km' in text:
         factor = 1000000
-    text = re.sub('[^\d\.x]', '', text)
+    text = re.sub('[^\d\.x]', '', text) # Take only numeric values. Ex: '20m^ x 20m^' -> '20x20'.
     area_list = list()
-    arr = [float(i) for i in text.split('x')]
+    arr = [float(i) for i in text.split('x')] # Determine the length and width to calculate the area.
     for i in range(len(arr) - 1):
-        area = arr[i] * arr[i + 1] * factor
+        area = arr[i] * arr[i + 1] * factor # Calculate area.
         area_list.append(area)
     return area_list
 
 
-def normalize_area_non_x(text):
+def normalize_area_non_x(text): # No calculate area.
     factor = 1
     if 'km' in text:
-        factor = 1000000
+        factor = 1000000 # 1km2 = 1.000.000m2, 1km2 = 100ha.
     elif 'ha' in text:
-        factor = 10000
+        factor = 10000 # 1ha = 10.000m2
     text = re.sub('[^\d\.]', '', text)
     return float(text) * factor
 
