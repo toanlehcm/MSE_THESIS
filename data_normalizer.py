@@ -66,7 +66,7 @@ def normalize(text, norm_type="none"):
 
     return text
 
-
+# ---------- Normalize price ----------
 main_divider = '-'
 dividers = ['toi', 'va', '~', 'hoac']
 currency_unit = ['ti', 'ty', 'trieu', 'tr', 'nghin', 'ngan', 'k']
@@ -82,14 +82,12 @@ maping_num = {
     'chin': '9'
 }
 
-
-# ---------- Normalize price ----------
 def normalize_price(text):
     # Change the text that is a number written in words to a numeric symbol.
     for key, value in maping_num.items():
         text = re.sub(r"\b{}\b".format(key), "{}".format(value), text)
 
-    # Replace text.
+    # Replace text to map with re_num, re_vnd, re_hud, re_mil, re_bil.
     text = text.replace('ti', 'ty')
     text = text.replace('tram', '##00')
     text = text.replace('trieu', 'tr')
@@ -109,11 +107,11 @@ def normalize_price(text):
         text = re.sub(div, main_divider, text)
 
     price_list = list()
-    arr = text.split(main_divider)
+    arr = text.split(main_divider) # Splits a string into a list base on main_divider.
     ##     print('Divided: ', arr)
 
-    biggest_unit = None
-    for element in reversed(arr):
+    biggest_unit = None # Currency unit.
+    for element in reversed(arr): # Reverses the sorting order of the arr price.
         prices = powerful_split_price(element)
         ##         print('Splited: ', prices)
         for price in reversed(prices):
@@ -124,7 +122,7 @@ def normalize_price(text):
             biggest_unit = unit
 
 
-##             print(biggest_unit)
+    ## print(biggest_unit)
     if len(price_list) == 0:
         low, high = None, None
     elif len(price_list) == 1:
@@ -133,11 +131,11 @@ def normalize_price(text):
         low, high = min(price_list), max(price_list)
     return low, high
 
-re_num = '\d+(\s*\.\s*\d+)?'
-re_vnd = re.compile('(\d+(\s*\.\s*\d+)?\svnd)')
-re_hud = re.compile('(\d+(\s*\.\s*\d+)?\skk)')
-re_mil = re.compile('(\d+(\s*\.\s*\d+)?\str)')
-re_bil = re.compile('(\d+(\s*\.\s*\d+)?\sty)')
+re_num = '\d+(\s*\.\s*\d+)?' # \d+: means match 1 or more digits.
+re_vnd = re.compile('(\d+(\s*\.\s*\d+)?\svnd)') # \s: Returns a match where the string contains a white space character.
+re_hud = re.compile('(\d+(\s*\.\s*\d+)?\skk)') # '*': Zero or more occurrences.
+re_mil = re.compile('(\d+(\s*\.\s*\d+)?\str)') # '.' :Any character (except newline character).
+re_bil = re.compile('(\d+(\s*\.\s*\d+)?\sty)') # '?' : Zero or one occurrences.
 
 
 def powerful_split_price(text):
@@ -155,7 +153,7 @@ def powerful_split_price(text):
     ##     print('idx_hud', idx_hud)
     price_list = list()
     if len(idx_bil) > 2:
-        for i in range(0, len(idx_bil) - 1):
+        for i in range(0, len(idx_bil) - 1): # The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number, range(start, stop, step).
             price = text[idx_bil[i]:idx_bil[i + 1]]
             if price != '':
                 price_list.append(price)
@@ -182,24 +180,24 @@ def powerful_split_price(text):
 maping_unit = {'ty': 1000000000, 'tr': 1000000, 'kk': 1000, 'vnd': 1}
 
 
-def normalize_price_unit(text, pre_unit):
+def normalize_price_unit(text, pre_unit): # pre_unit: currency unit.
     if text == '':
         return None, None
 
     final_value = 0
 
-    arr = text.split(' ')
+    arr = text.split(' ') # Separate amount value and money unit.
 
-    if pre_unit is None:
+    if pre_unit is None: # If there is no currency, the pre_unit is 'vnd'.
         pre_unit = 'vnd'
 
     current_unit = pre_unit
 
     num_list = [
-        float(re.sub(' ', '', i.group())) for i in re.finditer(re_num, text)
+        float(re.sub(' ', '', i.group())) for i in re.finditer(re_num, text) # Find all number matches in a string and return an iterator that yields match objects.
     ]
 
-    unit_list = [i.group() for i in re.finditer('[a-z]+', text)]
+    unit_list = [i.group() for i in re.finditer('[a-z]+', text)] # Find currency unit.
     ##     if 'vnd' not in len(unit_list):
     ##         unit_list.append('vnd')
     ##     print('Num list: ', num_list)
@@ -215,7 +213,7 @@ def normalize_price_unit(text, pre_unit):
         num = num_list[i]
         unit = unit_list[i]
         if unit in maping_unit.keys():
-            final_value += maping_unit[unit] * num
+            final_value += maping_unit[unit] * num # Convert to the corresponding money value.
             odd_unit = unit
     if len(num_list) > len(unit_list):
         odd = num_list[len(unit_list)]

@@ -1,74 +1,74 @@
 {
   "real_estate_type": [],
   "price": [
-    "nhà ở quận 1 thường có giá khoảng bao nhiêu-done",
-    "mua nhà diện tích 20m2 ở quận 1 có giá bao nhiêu-done",
-    "mua nhà diện tích 20m2 đến 30m2 ở quận 1 có giá bao nhiêu-done",
-    "mua nhà có 1 phòng khách, 2 phòng tắm, 3 phòng ngủ ở quận 1 có giá bao nhiêu-done",
-    "mua nhà có 1 phòng khách, 1 phòng tắm, 2 phòng ngủ ở quận 10 có giá bao nhiêu-done"
+    "nhà ở quận 1 thường có giá khoảng bao nhiêu",
+    "mua nhà diện tích 20m2 ở quận 1 có giá bao nhiêu",
+    "mua nhà diện tích 20m2 đến 30m2 ở quận 1 có giá bao nhiêu",
+    "mua nhà có 1 phòng khách, 2 phòng tắm, 3 phòng ngủ ở quận 1 có giá bao nhiêu",
+    "mua nhà có 1 phòng khách, 1 phòng tắm, 2 phòng ngủ ở quận 10 có giá bao nhiêu"
   ],
   "area": [
-    "Phòng trọ giá 3 triệu, quận 1 thì diện tích như thế nào-done",
-    "nhà giá 4 tỷ, quận 2 thì rộng bao nhiêu-done",
-    "nhà giá 130 tỷ, quận phu nhuan thì diện tích trung bình ra sao-done",
-    "phòng trọ giá 5 triệu, quận 9 thì rộng như thế nào-done",
-    "nhà giá 5 tỷ, quận 10 thì diện tích bao nhiêu-done"
+    "Phòng trọ giá 3 triệu, quận 1 thì diện tích như thế nào",
+    "nhà giá 4 tỷ, quận 2 thì rộng bao nhiêu",
+    "nhà giá 130 tỷ, quận phu nhuan thì diện tích trung bình ra sao",
+    "phòng trọ giá 5 triệu, quận 9 thì rộng như thế nào",
+    "nhà giá 5 tỷ, quận 10 thì diện tích bao nhiêu"
   ],
   "district": [
-    "nhà hoặc căn hộ giá khoảng 2 tỷ thì mua ở quận nào-done",
-    "nhà hoặc căn hộ giá từ 2 tỷ đến 3 tỷ thì mua ở quận nào-done",
-    "nhà hoặc căn hộ giá khoang 1 ti 2, 1 ti 3 toi 2 ti thì mua ở quận nào-done",
-    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào-done",
-    "mình đang có 4 tỷ, nên mua smarthome ở quận nào-done"
+    "nhà hoặc căn hộ giá khoảng 2 tỷ thì mua ở quận nào",
+    "nhà hoặc căn hộ giá từ 2 tỷ đến 3 tỷ thì mua ở quận nào",
+    "nhà hoặc căn hộ giá khoang 1 ti 2, 1 ti 3 toi 2 ti thì mua ở quận nào",
+    "mình đang có 2 tỷ, nên mua nhà hoặc căn hộ ở quận nào",
+    "mình đang có 4 tỷ, nên mua smarthome ở quận nào"
   ],
   "bed_room": [
-    "nhà giá 4 tỷ, 1 phòng khách, 1 phòng ngủ, thủ đô Hà Nội mua ở quận nào-done",
-    "nhà giá 4 tỷ, 1 phòng khách, 1 phòng ngủ, 1 phòng tắm, quận Ninh Kiều thành phố Cần Thơ, diện tích bao nhiêu-done",
-    "nhà giá 14 tỷ, 5 phòng tắm, 4 phòng ngủ, thành phố HCM, quận 2, diện tích nao nhiêu-done",
-    "nhà giá 4 tỷ, thành phố Đà Nẵng, 1 phòng khách, 4 phòng ngủ, có diện tích bao nhiêu-done",
-    "nhà giá 4 tỷ, thành phố Nha Trang, 1 phòng khách, 4 phòng ngủ, 4 phòng tắm có diện tích bao nhiêu-done"
+    "nhà giá 4 tỷ, 1 phòng khách, 1 phòng ngủ, thủ đô Hà Nội mua ở quận nào",
+    "nhà giá 4 tỷ, 1 phòng khách, 1 phòng ngủ, 1 phòng tắm, quận Ninh Kiều thành phố Cần Thơ, diện tích bao nhiêu",
+    "nhà giá 14 tỷ, 5 phòng tắm, 4 phòng ngủ, thành phố HCM, quận 2, diện tích nao nhiêu",
+    "nhà giá 4 tỷ, thành phố Đà Nẵng, 1 phòng khách, 4 phòng ngủ, có diện tích bao nhiêu",
+    "nhà giá 4 tỷ, thành phố Nha Trang, 1 phòng khách, 4 phòng ngủ, 4 phòng tắm có diện tích bao nhiêu"
   ],
   "floor": [
-    "nhà có 1 tầng, giá khoảng 2 tỷ, thành phố HCM, quận 8 rộng bao nhiêu-done",
-    "nhà có 5 tầng, giá 10 tỷ, thủ đô Hà Nội, quận Long Biên, diện tích bao nhiêu-done",
-    "nhà có 4 tầng lửng, thủ đô Hà Nội, giá bao nhiêu-done",
-    "còn nhà có 2 tầng có giấy phép xây dựng dt khoảng bao nhiêu-done",
-    "nếu nhà có 3 tầng có hợp đồng mua bán giá khoảng 4 tỷ rộng thế nào-done"
+    "nhà có 1 tầng, giá khoảng 2 tỷ, thành phố HCM, quận 8 rộng bao nhiêu",
+    "nhà có 5 tầng, giá 10 tỷ, thủ đô Hà Nội, quận Long Biên, diện tích bao nhiêu",
+    "nhà có 4 tầng lửng, thủ đô Hà Nội, giá bao nhiêu",
+    "còn nhà có 2 tầng có giấy phép xây dựng dt khoảng bao nhiêu",
+    "nếu nhà có 3 tầng có hợp đồng mua bán giá khoảng 4 tỷ rộng thế nào"
   ],
   "legal": [
-    "chung cư ở thủ đô Hà Nội, quận Cầu Giấy, diện tích 77m2, có giấy phép kinh doanh, giá bao nhiêu-done",
-    "chung cư có giá 3 tỷ, thủ đô Hà Nội, diện tích 77m2, có giấy phép kinh doanh, mua ở quận nào-done",
-    "studio có diện tích 35 mét vuông, ở thành phố Nha Trang, có giấy phép xây dựng, giá bao nhiêu-done",
-    "studio có giá 1000000000, ở thành phố Nha Trang, có giấy phép xây dựng, có diện tích bao nhiêu-done",
-    "chung cư có diện tích 80 mét vuông, ở thành phố Thuận An, có giấy phép kinh doanh, giá bao nhiêu-done",
-    "chung cư có giá 15 tỷ, diện tích 162 mét vuông, có giấy phép xây dựng, mua ở quận nào-done"
+    "chung cư ở thủ đô Hà Nội, quận Cầu Giấy, diện tích 77m2, có giấy phép kinh doanh, giá bao nhiêu",
+    "chung cư có giá 3 tỷ, thủ đô Hà Nội, diện tích 77m2, có giấy phép kinh doanh, mua ở quận nào",
+    "studio có diện tích 35 mét vuông, ở thành phố Nha Trang, có giấy phép xây dựng, giá bao nhiêu",
+    "studio có giá 1000000000, ở thành phố Nha Trang, có giấy phép xây dựng, có diện tích bao nhiêu",
+    "chung cư có diện tích 80 mét vuông, ở thành phố Thuận An, có giấy phép kinh doanh, giá bao nhiêu",
+    "chung cư có giá 15 tỷ, diện tích 162 mét vuông, có giấy phép xây dựng, mua ở quận nào"
   ],
   "position": [
-    "biệt thự mặt tiền diện tích 567m2, thành phố Đà Lạt, giá bao nhiêu-done",
-    "chung cư trong hẻm, có diện tích 68m2, thành phố Vĩnh Phúc, giá bao nhiêu-done",
-    "chung cư có giá 3 tỷ, quận Thanh Xuân, trong hẻm, có diện tích bao nhiêu-done",
-    "chung cư có giá 2 tỷ, diện tích 98m2, thủ đô Hà Nội, trong hẻm, mua ở quận nào-done",
-    "studio giá 2 tỷ, thành phố Hải Phòng, trong hẻm, rộng bao nhiêu-done"
+    "biệt thự mặt tiền diện tích 567m2, thành phố Đà Lạt, giá bao nhiêu",
+    "chung cư trong hẻm, có diện tích 68m2, thành phố Vĩnh Phúc, giá bao nhiêu",
+    "chung cư có giá 3 tỷ, quận Thanh Xuân, trong hẻm, có diện tích bao nhiêu",
+    "chung cư có giá 2 tỷ, diện tích 98m2, thủ đô Hà Nội, trong hẻm, mua ở quận nào",
+    "studio giá 2 tỷ, thành phố Hải Phòng, trong hẻm, rộng bao nhiêu"
   ],
   "direction": [
-    "chung cư diện tích 30m2, quận Long Biên, ở hướng Nam, giá bao nhiêu-done",
-    "chung cư giá 3 tỷ, quận 7, ở hướng Đông, rộng bao nhiêu-done",
-    "chung cư giá 2 tỷ, diện tích 75m2, thủ đô Hà Nội, hướng Bắc, mua ở quận nào-done",
-    "chung cư giá 3 tỷ, diện tích 30m2, quận Long Biên, hướng Nam, có bao nhiêu tầng-done",
-    "chung cư giá 2 tỷ, diện tích 69m2, thủ đô Hà Nội, hướng Tây, mua ở quận nào-done"
+    "chung cư diện tích 30m2, quận Long Biên, ở hướng Nam, giá bao nhiêu",
+    "chung cư giá 3 tỷ, quận 7, ở hướng Đông, rộng bao nhiêu",
+    "chung cư giá 2 tỷ, diện tích 75m2, thủ đô Hà Nội, hướng Bắc, mua ở quận nào",
+    "chung cư giá 3 tỷ, diện tích 30m2, quận Long Biên, hướng Nam, có bao nhiêu tầng",
+    "chung cư giá 2 tỷ, diện tích 69m2, thủ đô Hà Nội, hướng Tây, mua ở quận nào"
   ],
   "front_length": [
-    "nhà ở thủ đô Hà Nội, quận Hoàng Mai, nhà mặt tiền 4 mét, diện tích 40 mét vuông, giá bao nhiêu-done",
-    "chung cư có giá 5 tỷ, diện tích 259m2, thành phố Nha Trang, ở mặt tiền, chiều dài mặt tiền bao nhiêu-done",
-    "nhà có giá 2 tỷ, ở thành phố Hải Phòng, quận Kiến An, ở mặt tiền, chiều dài mặt tiền 5 m, diện tích rộng bao nhiêu-done",
-    "chung cư có giá 9 tỷ, diện tích 121m2, thành phố Đà Lạt, ở mặt tiền, chiều dài mặt tiền bao nhiêu-done",
-    "chung cư có diện tích 53m2, thủ đô Hà Nội, quận Hoàng Mai, nhà mặt tiền 6m, giá bao nhiêu-done"
+    "nhà ở thủ đô Hà Nội, quận Hoàng Mai, nhà mặt tiền 4 mét, diện tích 40 mét vuông, giá bao nhiêu",
+    "chung cư có giá 5 tỷ, diện tích 259m2, thành phố Nha Trang, ở mặt tiền, chiều dài mặt tiền bao nhiêu",
+    "nhà có giá 2 tỷ, ở thành phố Hải Phòng, quận Kiến An, ở mặt tiền, chiều dài mặt tiền 5 m, diện tích rộng bao nhiêu",
+    "chung cư có giá 9 tỷ, diện tích 121m2, thành phố Đà Lạt, ở mặt tiền, chiều dài mặt tiền bao nhiêu",
+    "chung cư có diện tích 53m2, thủ đô Hà Nội, quận Hoàng Mai, nhà mặt tiền 6m, giá bao nhiêu"
   ],
   "potential": [
-    "chung cư có giá 3 tỷ, có diện tích 100 mét vuông, ở thủ đô Hà Nội, quận Thanh Xuân, tiềm năng thế nào-done",
-    "chung cư có giá 7 tỷ, có diện tích 90 mét vuông, ở quận 7, triển vọng thế nào-done",
-    "chung cư có giá 5 tỷ, diện tích 1770 mét vuông, ở thành phố Đà Lạt, phù hợp thế nào-done",
-    "chung cư có giá 1 tỷ, diện tích 55 mét vuông, ở thành phố HCM, quận 8, thuận lợi thế nào-done",
-    "chung cư có giá 2 tỷ, diện tích 80 mét vuông, ở quận Cầu Giấy, mục đích sử dụng thế nào-done"
+    "chung cư có giá 3 tỷ, có diện tích 100 mét vuông, ở thủ đô Hà Nội, quận Thanh Xuân, tiềm năng thế nào",
+    "chung cư có giá 7 tỷ, có diện tích 90 mét vuông, ở quận 7, triển vọng thế nào",
+    "chung cư có giá 5 tỷ, diện tích 1770 mét vuông, ở thành phố Đà Lạt, phù hợp thế nào",
+    "chung cư có giá 1 tỷ, diện tích 55 mét vuông, ở thành phố HCM, quận 8, thuận lợi thế nào",
+    "chung cư có giá 2 tỷ, diện tích 80 mét vuông, ở quận Cầu Giấy, mục đích sử dụng thế nào"
   ]
 }
