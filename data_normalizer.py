@@ -194,7 +194,7 @@ def normalize_price_unit(text, pre_unit): # pre_unit: currency unit.
     current_unit = pre_unit
 
     num_list = [
-        float(re.sub(' ', '', i.group())) for i in re.finditer(re_num, text) # Find all number matches in a string and return an iterator that yields match objects.
+        float(re.sub(' ', '', i.group())) for i in re.finditer(re_num, text) # Find all the numbers in the string that match the pattern.
     ]
 
     unit_list = [i.group() for i in re.finditer('[a-z]+', text)] # Find currency unit.
@@ -213,7 +213,7 @@ def normalize_price_unit(text, pre_unit): # pre_unit: currency unit.
         num = num_list[i]
         unit = unit_list[i]
         if unit in maping_unit.keys():
-            final_value += maping_unit[unit] * num # Convert to the corresponding money value.
+            final_value += maping_unit[unit] * num # Multiply the amount by the corresponding unit.
             odd_unit = unit
     if len(num_list) > len(unit_list):
         odd = num_list[len(unit_list)]
@@ -773,4 +773,4 @@ def normalize_numeric(text):
 
 normalize("Không xác định", "legal")
 
-# Haven't been able to normalize cases like 1000000000 VND.
+# Haven't been able to normalize cases like 1 tỷ: 1.000.000.000 VND.
